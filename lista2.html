@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lista de enlaces de canales</title>
+  <style>
+    body {
+      background: #0d1117;
+      color: #c9d1d9;
+      font-family: system-ui, -apple-system, sans-serif;
+      margin: 0;
+      padding: 20px 16px;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #58a6ff;
+      text-align: center;
+      margin: 0.6em 0 1.2em;
+    }
+    #buscar {
+      display: block;
+      width: 100%;
+      max-width: 680px;
+      margin: 1.5em auto;
+      padding: 0.9em 1.3em;
+      font-size: 1.1em;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      background: #161b22;
+      color: #e6edf3;
+    }
+    .item {
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      padding: 1.2em 1.4em;
+      margin: 1em 0;
+    }
+    .nombre {
+      font-size: 1.22em;
+      font-weight: 600;
+      color: #58a6ff;
+      margin-bottom: 0.5em;
+    }
+    .enlace {
+      font-family: ui-monospace, monospace;
+      font-size: 0.94em;
+      color: #8b949e;
+      word-break: break-all;
+      background: #0d1117;
+      padding: 0.7em 1em;
+      border-radius: 6px;
+      margin: 0.7em 0 1em;
+    }
+    button {
+      background: #238636;
+      color: white;
+      border: none;
+      padding: 0.65em 1.3em;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 0.97em;
+    }
+    button.copiado {
+      background: #2ea043 !important;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Lista completa de enlaces para reproducir canales</h1>
+
+<input type="search" id="buscar" placeholder="Buscar canal..." autocomplete="off">
+
+<div id="contenedor"></div>
+
+<script>
+const canales = [
+  { nombre: "A3 Cine",                        get: "QTNfQ2luZQ==" },
+  { nombre: "Adult Swim",                     get: "QWR1bHRfU3dpbQ==" },
+  { nombre: "AMC Series (ex MAS Chic)",       get: "QU1DX1Nlcmllcw==" },
+  { nombre: "América 24",                     get: "QW1lcmljYTI0" },
+  { nombre: "América TV",                     get: "QW1lcmljYVRW" },
+  { nombre: "Animal Planet",                  get: "QW5pbWFsUGxhbmV0" },
+  { nombre: "Antena 3",                       get: "QW50ZW5hXzM=" },
+  { nombre: "Argentinísima",                  get: "QXJnZW50aW5pc2ltYQ" },
+  { nombre: "Artear HD",                      get: "QXJ0ZWFySEQ=" },
+  { nombre: "AXN HD",                         get: "QVhOSEQ=" },
+  { nombre: "BBC World News",                 get: "QkJDX1dvcmxkX05ld3M" },
+  { nombre: "Boomerang",                      get: "Qm9vbWVyYW5n" },
+  { nombre: "Bravo TV",                       get: "QnJhdm9UVg==" },
+  { nombre: "C5N",                            get: "QzVO" },
+  { nombre: "C9N C4",                         get: "QzlOX0M0" },
+  { nombre: "Canal 10 Uruguay",               get: "Q2FuYWwxMF9VUlU=" },
+  { nombre: "Canal 12 CBA",                   get: "Q2FuYWxfMTJfQ0JB" },
+  { nombre: "Canal 12 Uruguay",               get: "Q2FuYWwxMlVSVQ==" },
+  { nombre: "Canal 26 TV HD",                 get: "MjZfVFZfSEQ" },
+  { nombre: "Canal 4 Uruguay",                get: "Q2FuYWw0X1VSVQ==" },
+  { nombre: "Canal 5 Rosario",                get: "Q2FuYWxfNV9Sb3Nhcmlv" },
+  { nombre: "Canal 7",                        get: "Q2FuYWw3" },
+  { nombre: "Canal 8 CBA",                    get: "Q2FuYWxfOF9DQkE" },
+  { nombre: "Canal 8 Tucumán",                get: "Q2FuYWxfOF9UdWN1bWFu" },
+  { nombre: "Canal 9",                        get: "Q2FuYWw5" },
+  { nombre: "Canal de la Ciudad",             get: "Q2FuYWxfZGVfbGFfY2l1ZGFk" },
+  { nombre: "Canal de las Estrellas",         get: "Q2FuYWxfZGVfbGFzX2VzdHJlbGxhcw==" },
+  { nombre: "Canal Rural",                    get: "Q2FuYWxfUnVyYWw=" },
+  { nombre: "Cartoon Network",                get: "Q2FydG9vbk5ldHdvcms=" },
+  { nombre: "Cinemax",                        get: "Q2luZW1heA==" },
+  { nombre: "CM",                             get: "Q00=" },
+  { nombre: "Comedy Central",                 get: "Q29tZWR5Q2VudHJhbA" },
+  { nombre: "Cronica TV",                     get: "Q3JvbmljYVRW" },
+  { nombre: "Discovery Home & Health HD",     get: "RGlzY292ZXJ5SG9tZUhlYWx0aEhE" },
+  { nombre: "Discovery Kids",                 get: "RGlzY292ZXJ5X0tpZHM=" },
+  { nombre: "Discovery Science",              get: "RGlzY292ZXJ5X1NjaWVuY2U=" },
+  { nombre: "Discovery Turbo",                get: "RGlzY292ZXJ5VHVyYm8=" },
+  { nombre: "Discovery World HD",             get: "RGlzY292ZXJ5X1dvcmxkX0hE" },
+  { nombre: "Disney Channel HD",              get: "RGlzbmV5Q2hhbm5lbEhE" },
+  { nombre: "Disney Junior",                  get: "RGlzbmV5SnI=" },
+  { nombre: "Discovery HD",                   get: "RGlzY292ZXJ5SEQ=" },
+  { nombre: "Dreamworks",                     get: "RHJlYW13b3Jrcw==" },
+  { nombre: "Diputados TV",                   get: "RGlwdXRhZG9zX1RW" },
+  { nombre: "El Garage",                      get: "RWxfR2FyYWdl" },
+  { nombre: "Encuentro",                      get: "RW5jdWVudHJv" },
+  { nombre: "ESPN HD",                        get: "RVNQTkhE" },
+  { nombre: "ESPN 2 Argentina",               get: "RVNQTjJfQXJn" },
+  { nombre: "ESPN 2 Uruguay",                 get: "RVNQTjJfVVk=" },
+  { nombre: "ESPN 3",                         get: "RVNQTjM" },
+  { nombre: "ESPN 3 Uruguay-Paraguay",        get: "RVNQTjNfVXktUHk=" },
+  { nombre: "ESPN 4",                         get: "RVNQTjQ=" },
+  { nombre: "ESPN Uruguay",                   get: "RVNQTl9VWQ==" },
+  { nombre: "Europa Europa",                  get: "RXVyb3BhX0V1cm9wYQ" },
+  { nombre: "Eurochannel",                    get: "RXVyb2NoYW5uZWw=" },
+  { nombre: "Euronews",                       get: "RXVyb25ld3M=" },
+  { nombre: "Eventos 1 HD",                   get: "RXZlbnRvczFIRA" },
+  { nombre: "Eventos 2 HD",                   get: "RXZlbnRvc18yX0hE" },
+  { nombre: "Eventos HD Uruguay",             get: "RXZlbnRvc19IRF9VeQ==" },
+  { nombre: "E! Entertainment Television",    get: "RV9FbnRlcnRhaW5tZW50X1RlbGV2aXNpb24=" },
+  { nombre: "Film Arts",                      get: "RmlsbV9BcnRz" },
+  { nombre: "Flow Música XP",                 get: "Rmxvd19NdXNpY19YUA==" },
+  { nombre: "Flow Música 1",                  get: "Rmxvd19NdXNpY18x" },
+  { nombre: "Flow Música 2",                  get: "Rmxvd19NdXNpY18y" },
+  { nombre: "Flow Música 3",                  get: "Rmxvd19NdXNpY18z" },
+  { nombre: "Food Network",                   get: "Rm9vZF9OZXR3b3Jr" },
+  { nombre: "Fox News",                       get: "Rm94X05ld3M=" },
+  { nombre: "Fox Sports",                     get: "Rm94U3BvcnRz" },
+  { nombre: "Fox Sports 2 HD",                get: "Rm94U3BvcnRzMkhE" },
+  { nombre: "Fox Sports 3 HD",                get: "Rm94U3BvcnRzM0hE" },
+  { nombre: "Fox Sports 2 Uruguay",           get: "Rm94U3BvcnRzMl9VWQ==" },
+  { nombre: "Fox Sports 3 Uruguay",           get: "Rm94U3BvcnRzM19VWQ==" },
+  { nombre: "ESPN Premium HD",          get: "Rm94X1Nwb3J0c19QcmVtaXVuX0hE" },
+  { nombre: "Gourmet",                        get: "R291cm1ldA==" },
+  { nombre: "GEN TV",                         get: "R0VOX1RW" },
+  { nombre: "Glitz",                          get: "R2xpdHo=" },
+  { nombre: "Golden",                         get: "R29sZGVu" },
+  { nombre: "History 2",                      get: "SGlzdG9yeV8y" },
+  { nombre: "History HD",                     get: "SGlzdG9yeUhE" },
+  { nombre: "Hola TV",                        get: "SG9sYV9UVg==" },
+  { nombre: "HBO",                            get: "SEJPSEQ=" },
+  { nombre: "HBO 2",                          get: "SEJPXzI=" },
+  { nombre: "HBO Plus",                       get: "SEJPX1BsdXM=" },
+  { nombre: "HBO Family",                     get: "SEJPX0ZhbWlseQ==" },
+  { nombre: "HBO Xtreme",                     get: "SEJPX0V4dHJlbWU=" },
+  { nombre: "HBO Mundi",                      get: "SEJPX011bmRp" },
+  { nombre: "HBO POP",                        get: "SEJPX1BPUA==" },
+  { nombre: "HBO Signature",                  get: "SEJPX1NpZ25hdHVyZQ==" },
+  { nombre: "HTV",                            get: "SFRW" },
+  { nombre: "ID (Investigation Discovery)",   get: "SUQ=" },
+  { nombre: "INCAA TV",                       get: "SU5DQUFfVHY=" },
+  { nombre: "IP Noticias",                    get: "SW52ZXN0aWdhY2lvbl9QZXJpb2Rpc3RpY2E=" },
+  { nombre: "ISAT",                           get: "SVNBVA==" },
+  { nombre: "KZO",                            get: "S1pP" },
+  { nombre: "La Nación",                      get: "TGFfTmFjaW9u" },
+  { nombre: "La Tele C4",                     get: "TEFfVEVMRV9DNA==" },
+  { nombre: "Lifetime",                       get: "TGlmZXRpbWU=" },
+  { nombre: "Metro",                          get: "TWV0cm8" },
+  { nombre: "MTV 00",                         get: "TVRWMDA=" },
+  { nombre: "MTV HD",                         get: "TVRWX0hE" },
+  { nombre: "MTV Hits",                       get: "TVRWX0hpdHM=" },
+  { nombre: "National Geographic HD",         get: "TmF0R2VvSEQ=" },
+  { nombre: "NBA TV",                         get: "TkJBX1RW" },
+  { nombre: "Net TV",                         get: "TmV0X1RW" },
+  { nombre: "Nick Jr",                        get: "Tmlja19Kcg==" },
+  { nombre: "Nickelodeon",                    get: "Tmlja2Vsb2Rlb24=" },
+  { nombre: "Noticias PY C4",                 get: "Tk9USUNJQVNfUFlfQzQ=" },
+  { nombre: "Paka Paka",                      get: "UEFLQV9QQUtB" },
+  { nombre: "Paramount",                      get: "UGFyYW1vdW50" },
+  { nombre: "Paraguay TV",                    get: "UGFyYWd1YXlfVFY=" },
+  { nombre: "Paravisión C4",                  get: "UEFSQVZJU0lPTl9DNA==" },
+  { nombre: "Playboy",                        get: "UGxheWJveQ" },
+  { nombre: "Quiero HD",                      get: "UXVpZXJvX0hE" },
+  { nombre: "RAI",                            get: "UkFJ" },
+  { nombre: "RPC C4",                         get: "UlBDX0M0" },
+  { nombre: "Sextreme",                       get: "U2V4dHJlbWU" },
+  { nombre: "SNT C4",                         get: "U05UX0M0" },
+  { nombre: "Sony HD",                        get: "U29ueUhE" },
+  { nombre: "Space",                          get: "U3BhY2U=" },
+  { nombre: "Studio Universal",               get: "U3R1ZGlvX1VuaXZlcnNhbA==" },
+  { nombre: "Sun Channel",                    get: "U3VuX0NoYW5uZWw=" },
+  { nombre: "Sur TV C4",                      get: "U1VSX1RWX0M0" },
+  { nombre: "SyFy",                           get: "U3lGeQ==" },
+  { nombre: "TBS",                            get: "VEJT" },
+  { nombre: "TCM",                            get: "VENN" },
+  { nombre: "Telefe HD",                      get: "VGVsZWZlSEQ=" },
+  { nombre: "Telefe Neuquén",                 get: "VGVsZWZlX05ldXF1ZW4=" },
+  { nombre: "Telefe Salta",                   get: "VGVsZWZlX1NhbHRh" },
+  { nombre: "Telefuturo C4",                  get: "VEVMRUZVVFVST19DNA==" },
+  { nombre: "Telemax",                        get: "VGVsZW1heA" },
+  { nombre: "Telemundo HD",                   get: "VGVsZW11bmRvX0hE" },
+  { nombre: "Telesur",                        get: "VGVsZXN1cg==" },
+  { nombre: "Theater HD",                     get: "VGhlYXRlcl9IRA==" },
+  { nombre: "TLC",                            get: "VExD" },
+  { nombre: "Todo Noticias",                  get: "VG9kb05vdGljaWFz" },
+  { nombre: "TruTV",                          get: "VHJ1VFY=" },
+  { nombre: "TV Chile",                       get: "VHZfQ2hpbGU=" },
+  { nombre: "TV España",                      get: "VFZfRXNwYW5h" },
+  { nombre: "TV5 Monde",                      get: "VFY1X01vbmRl" },
+  { nombre: "TyC Internacional",              get: "VHlDX0ludGVybmFjaW9uYWw=" },
+  { nombre: "TyC Sports",                     get: "VHlDU3BvcnQ" },
+  { nombre: "TNT HD Argentina",               get: "VE5UX0hEX0FyZw==" },
+  { nombre: "TNT Series",                     get: "VE5UU2VyaWVz" },
+  { nombre: "TNT Sports HD",                  get: "VE5UX1Nwb3J0c19IRA" },
+  { nombre: "Universal Channel HD",           get: "VW5pdmVyc2FsX0NoYW5uZWxfSEQ=" },
+  { nombre: "Universal Cinema",               get: "VW5pdmVyc2FsX0NpbmVtYQ==" },
+  { nombre: "Universal Comedy",               get: "VW5pdmVyc2FsX0NvbWVkeQ==" },
+  { nombre: "Universal Crime",                get: "dW5pdmVyc2FsX0NyaW1l" },
+  { nombre: "Universal Premiere",             get: "VW5pdmVyc2FsX1ByZW1pZXJl" },
+  { nombre: "Universal Reality",              get: "VW5pdmVyc2FsX1JlYWxpdHk=" },
+  { nombre: "USA Network",                    get: "VVNBX05ldHdvcms=" },
+  { nombre: "Venus",                          get: "VmVudXM=" },
+  { nombre: "Volver",                         get: "Vm9sdmVy" },
+  { nombre: "Warner HD",                      get: "V2FybmVySEQ=" },
+  { nombre: "WOBI",                           get: "V09CSQ==" }
+];
+
+const contenedor = document.getElementById("contenedor");
+const inputBuscar = document.getElementById("buscar");
+
+function renderizar(filtro = "") {
+  contenedor.innerHTML = "";
+
+  const filtrados = canales
+    .filter(c => c.nombre.toLowerCase().includes(filtro.toLowerCase()))
+    .sort((a, b) => a.nombre.localeCompare(b.nombre));
+
+  filtrados.forEach(canal => {
+    const urlCompleta = window.location.origin + "/canales.html?get=" + canal.get;
+
+    const div = document.createElement("div");
+    div.className = "item";
+
+    div.innerHTML = `
+      <div class="nombre">${canal.nombre}</div>
+      <div class="enlace">${urlCompleta}</div>
+      <button class="copiar" data-url="${urlCompleta}">Copiar enlace</button>
+    `;
+
+    contenedor.appendChild(div);
+  });
+}
+
+inputBuscar.addEventListener("input", e => {
+  renderizar(e.target.value.trim());
+});
+
+renderizar();
+
+document.addEventListener("click", e => {
+  if (!e.target.classList.contains("copiar")) return;
+
+  const btn = e.target;
+  const texto = btn.dataset.url;
+
+  navigator.clipboard.writeText(texto).then(() => {
+    const original = btn.innerText;
+    btn.innerText = "Copiado ✓";
+    btn.classList.add("copiado");
+    setTimeout(() => {
+      btn.innerText = original;
+      btn.classList.remove("copiado");
+    }, 1800);
+  }).catch(() => {
+    alert("No se pudo copiar automáticamente. Copia manualmente: " + texto);
+  });
+});
+</script>
+</body>
+</html>
