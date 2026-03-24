@@ -1,0 +1,467 @@
+[
+  {
+    "name": "TUDN",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/tudn.html"
+  },
+  {
+    "name": "TNT SPORTS",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/tntsports.html"
+  },
+  {
+    "name": "ESPN PREMIUM LAT",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/espnpremium.html"
+  },
+  {
+    "name": "ESPN PREMIUM ARGENTINA",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/espnpremiumargentina.html"
+  },
+  {
+    "name": "TYC SPORTS",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/tycsports.html"
+  },
+  {
+    "name": "FOX SPORTS",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/foxsports.html"
+  },
+  {
+    "name": "FOX SPORTS 2",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/foxsports2.html"
+  },
+  {
+    "name": "FOX SPORTS 3",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/foxsports3.html"
+  },
+  {
+    "name": "ESPN LAT",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/espnlat.html"
+  },
+  {
+    "name": "ESPN ARGENTINA",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/espnargentina.html"
+  },
+  {
+    "name": "ESPN COLOMBIA",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/espncolombia.html"
+  },
+  {
+    "name": "ESPN 2",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/espn2.html"
+  },
+  {
+    "name": "ESPN 3",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/espn3.html"
+  },
+  {
+    "name": "ESPN 4",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/espn4.html"
+  },
+  {
+    "name": "ESPN 5",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/espn5.html"
+  },
+  {
+    "name": "ESPN 6",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/espn6.html"
+  },
+  {
+    "name": "ESPN 7",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/espn7.html"
+  },
+  {
+    "name": "DIRECTV SPORTS",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/directvsports.html"
+  },
+  {
+    "name": "DIRECTV SPORTS 2",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/directvsports2.html"
+  },
+  {
+    "name": "DIRECTV SPORTS PLUS",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/directvsportsplus.html"
+  },
+  {
+    "name": "FOX SPORTS MX",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/foxsportsmx.html"
+  },
+  {
+    "name": "FOX SPORTS 2 MX",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/foxsports2mx.html"
+  },
+  {
+    "name": "FOX SPORTS 3 MX",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/foxsports3mx.html"
+  },
+  {
+    "name": "ESPN MX",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/espnmx.html"
+  },
+  {
+    "name": "ESPN 2 MX",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/espn2mx.html"
+  },
+  {
+    "name": "ESPN 3 MX",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/espn3mx.html"
+  },
+  {
+    "name": "ESPN 4 MX",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/espn4mx.html"
+  },
+  {
+    "name": "ESPN 5 MX",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/espn5mx.html"
+  },
+  {
+    "name": "LIGA 1",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/liga1.html"
+  },
+  {
+    "name": "LIGA 1 MAX",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/liga1max.html"
+  },
+  {
+    "name": "FOX SPORTS PREMIUM",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/foxsportspremium.html"
+  },
+  {
+    "name": "MOVISTAR DEPORTES PE",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/movistardeportespe.html"
+  },
+  {
+    "name": "DAZN F1",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/daznf1.html"
+  },
+  {
+    "name": "DAZN LA LIGA",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/daznlaliga.html"
+  },
+  {
+    "name": "M. LIGA DE CAMPEONES",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/mligadecampeones.html"
+  },
+  {
+    "name": "WIN SPORTS",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/winsports.html"
+  },
+  {
+    "name": "WIN SPORTS PLUS",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/winsportsplus.html"
+  },
+  {
+    "name": "BEIN SPORTS XTRA",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/beinsportsxtra.html"
+  },
+  {
+    "name": "MOVISTAR LA LIGA",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/movistarlaliga.html"
+  },
+  {
+    "name": "AZTECA DEPORTES",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/aztecadeportes.html"
+  },
+  {
+    "name": "TNT SPORTS CHILE",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/tntsportschile.html"
+  },
+  {
+    "name": "SKY SPORTS MX",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/skysportsmx.html"
+  },
+  {
+    "name": "SKY SPORTS BUNDESLIGA",
+    "category": "Deportes",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/skysportsbundesliga.html"
+  },
+  {
+    "name": "AZTECA 7",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/azteca7.html"
+  },
+  {
+    "name": "CANAL 5",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/canal5.html"
+  },
+  {
+    "name": "LATINA",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/latina.html"
+  },
+  {
+    "name": "AMERICA TV",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/americatv.html"
+  },
+  {
+    "name": "SPACE",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/space.html"
+  },
+  {
+    "name": "WARNER BROS TV",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/warnerbrostv.html"
+  },
+  {
+    "name": "TNT",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/tnt.html"
+  },
+  {
+    "name": "STAR CHANNEL",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/starchannel.html"
+  },
+  {
+    "name": "CINEMAX",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/cinemax.html"
+  },
+  {
+    "name": "CINECANAL",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/cinecanal.html"
+  },
+  {
+    "name": "TELEFE",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/telefe.html"
+  },
+  {
+    "name": "EL TRECE",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/eltrece.html"
+  },
+  {
+    "name": "DISTRITO COMEDIA",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/distritocomedia.html"
+  },
+  {
+    "name": "HISTORY",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/history.html"
+  },
+  {
+    "name": "HISTORY 2",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/history2.html"
+  },
+  {
+    "name": "PASIONES",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/pasiones.html"
+  },
+  {
+    "name": "AZTECA UNO",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/aztecauno.html"
+  },
+  {
+    "name": "GALAVISION",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/galavision.html"
+  },
+  {
+    "name": "TLNOVELAS",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/tlnovelas.html"
+  },
+  {
+    "name": "LAS ESTRELLAS",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/lasestrellas.html"
+  },
+  {
+    "name": "SYFY USA",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/syfyusa.html"
+  },
+  {
+    "name": "CARACOL",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/caracol.html"
+  },
+  {
+    "name": "ATV",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/atv.html"
+  },
+  {
+    "name": "UNIVISION",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/univision.html"
+  },
+  {
+    "name": "UNICABLE",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/unicable.html"
+  },
+  {
+    "name": "FX",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/fx.html"
+  },
+  {
+    "name": "GOLDEN PLUS",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/goldenplus.html"
+  },
+  {
+    "name": "GOLDEN EDGE",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/goldenedge.html"
+  },
+  {
+    "name": "GOLDEN PREMIERE",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/goldenpremiere.html"
+  },
+  {
+    "name": "TNT SERIES",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/tntseries.html"
+  },
+  {
+    "name": "AXN",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/axn.html"
+  },
+  {
+    "name": "UNIVERSAL TV",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/universaltv.html"
+  },
+  {
+    "name": "STUDIO UNIVERSAL",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/studiouniversal.html"
+  },
+  {
+    "name": "MULTIPREMIER",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/multipremier.html"
+  },
+  {
+    "name": "AMC",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/amc.html"
+  },
+  {
+    "name": "NAT GEO",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/natgeo.html"
+  },
+  {
+    "name": "ANIMAL PLANET",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/animalplanet.html"
+  },
+  {
+    "name": "DISCOVERY CHANNEL",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/discoverychannel.html"
+  },
+  {
+    "name": "DISCOVERY HYH",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/discoveryhyh.html"
+  },
+  {
+    "name": "ID INVESTIGATION",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/idinvestigation.html"
+  },
+  {
+    "name": "DISCOVERY A&E",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/discoveryae.html"
+  },
+  {
+    "name": "DISCOVERY WORLD",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/discoveryworld.html"
+  },
+  {
+    "name": "CARTOON NETWORK",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/cartoonnetwork.html"
+  },
+  {
+    "name": "TOONCAST",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/tooncast.html"
+  },
+  {
+    "name": "TELEMUNDO PUERTO RICO",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/telemundopuertorico.html"
+  },
+  {
+    "name": "RCN",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/rcn.html"
+  },
+  {
+    "name": "ANTENA 3",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/antena3.html"
+  },
+  {
+    "name": "DISNEY CHANNEL",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/disneychannel.html"
+  },
+  {
+    "name": "TNT NOVELAS",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/tntnovelas.html"
+  },
+  {
+    "name": "FM HOT KIDS",
+    "category": "Regionales",
+    "embed_url": "https://embed.ksdjugfsddeports.com/embed/fmhotkids.html"
+  }
+]
