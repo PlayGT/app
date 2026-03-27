@@ -1,0 +1,60 @@
+[
+  {
+    "titulo": "El retorno de Piglet",
+    "imdb_id": "tt33050292",
+    "tmdb_id": "1352774",
+    "tipo": "pelicula",
+    "idiomas": [
+      {
+        "idioma": "LAT",
+        "file_id": "97185",
+        "servidores": [
+          {
+            "servidor": "vidhide",
+            "url": "https://minochinos.com/embed/h8apk9c8tbbv"
+          },
+          {
+            "servidor": "streamwish",
+            "url": "https://hglink.to/e/76u45xagn5is"
+          }
+        ]
+      },
+      {
+        "idioma": "ESP",
+        "file_id": "97184",
+        "servidores": [
+          {
+            "servidor": "vidhide",
+            "url": "https://minochinos.com/embed/cbkmrp0r0aaf"
+          },
+          {
+            "servidor": "streamwish",
+            "url": "https://hglink.to/e/k6345v9mu43c"
+          },
+          {
+            "servidor": "voe",
+            "url": "https://voe.sx/e/zwmgrnuljyvb"
+          }
+        ]
+      },
+      {
+        "idioma": "SUB",
+        "file_id": "97186",
+        "servidores": [
+          {
+            "servidor": "vidhide",
+            "url": "https://minochinos.com/embed/0bm7mzi7no0z"
+          },
+          {
+            "servidor": "streamwish",
+            "url": "https://hglink.to/e/uajwcf3plyz9"
+          },
+          {
+            "servidor": "voe",
+            "url": "https://voe.sx/e/0tfpbnelslnt"
+          }
+        ]
+      }
+    ]
+  }
+]
