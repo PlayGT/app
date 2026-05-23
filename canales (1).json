@@ -1,0 +1,81 @@
+[
+  {
+    "titulo": "ESPN",
+    "opciones": [
+      "https://canalesdeportivos.net/espnhd.php",
+      "https://la12hd.com/vivo/canal.php?stream=espn"
+    ]
+  },
+  {
+    "titulo": "ESPN 2",
+    "opciones": [
+      "https://la12hd.com/vivo/canal.php?stream=espn2"
+    ]
+  },
+  {
+    "titulo": "ESPN 3",
+    "opciones": [
+      "https://la12hd.com/vivo/canal.php?stream=espn3"
+    ]
+  },
+  {
+    "titulo": "ESPN Premium",
+    "opciones": [
+      "https://la12hd.com/vivo/canales.php?stream=espnpremium"
+    ]
+  },
+  {
+    "titulo": "TNT Sports",
+    "opciones": [
+      "https://la12hd.com/vivo/canal.php?stream=tntsports"
+    ]
+  },
+  {
+    "titulo": "TyC Sports",
+    "opciones": [
+      "https://la12hd.com/vivo/canal.php?stream=tycsports"
+    ]
+  },
+  {
+    "titulo": "DSports",
+    "opciones": [
+      "https://la12hd.com/vivo/canal.php?stream=dsports"
+    ]
+  },
+  {
+    "titulo": "DSports 2",
+    "opciones": [
+      "https://la12hd.com/vivo/canal.php?stream=dsports2"
+    ]
+  },
+  {
+    "titulo": "DSports +",
+    "opciones": [
+      "https://la12hd.com/vivo/canal.php?stream=dsportsplus"
+    ]
+  },
+  {
+    "titulo": "Win Sports +",
+    "opciones": [
+      "https://la12hd.com/vivo/canal.php?stream=winsportsplus"
+    ]
+  },
+  {
+    "titulo": "Fox Sports",
+    "opciones": [
+      "https://la12hd.com/vivo/canal.php?stream=foxsports"
+    ]
+  },
+  {
+    "titulo": "Fox Sports 2",
+    "opciones": [
+      "https://la12hd.com/vivo/canal.php?stream=foxsports2"
+    ]
+  },
+  {
+    "titulo": "Fox Sports 3",
+    "opciones": [
+      "https://la12hd.com/vivo/canal.php?stream=foxsports3"
+    ]
+  }
+]
