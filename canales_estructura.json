@@ -106,11 +106,6 @@
         "icono": "🇲🇽"
       },
       {
-        "titulo": "adn40Mx",
-        "enlace": "https://www.youtube-nocookie.com/embed/d6sRTSG4rgs",
-        "icono": "🇲🇽"
-      },
-      {
         "titulo": "Alcance TV",
         "enlace": "https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8",
         "icono": "🇲🇽"
@@ -138,11 +133,6 @@
       {
         "titulo": "Canal 10 Durango",
         "enlace": "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Canal 23 Televisa Ensenada",
-        "enlace": "https://www.youtube-nocookie.com/embed/O6jj-XK_-SE",
         "icono": "🇲🇽"
       },
       {
@@ -178,11 +168,6 @@
       {
         "titulo": "CreaLaTV",
         "enlace": "https://stream8.mexiserver.com:2000/hls/crealatv/crealatv.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "El Chavo del 8",
-        "enlace": "https://www.youtube-nocookie.com/embed/fy_fYd3ZwPE",
         "icono": "🇲🇽"
       },
       {
@@ -226,16 +211,6 @@
         "icono": "🇲🇽"
       },
       {
-        "titulo": "Imagen Multicast",
-        "enlace": "https://www.youtube-nocookie.com/embed/GnoqxyqBQ7g",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Imagen TV+",
-        "enlace": "https://www.youtube-nocookie.com/embed/PRkGwx11mm4",
-        "icono": "🇲🇽"
-      },
-      {
         "titulo": "ITV Deportes",
         "enlace": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8",
         "icono": "🇲🇽"
@@ -261,28 +236,13 @@
         "icono": "🇲🇽"
       },
       {
-        "titulo": "Milenio Television",
-        "enlace": "https://www.youtube-nocookie.com/embed/tQ941SU5UR0",
-        "icono": "🇲🇽"
-      },
-      {
         "titulo": "Monte Maria",
         "enlace": "https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8",
         "icono": "🇲🇽"
       },
       {
-        "titulo": "MULTIMEDIOS",
-        "enlace": "https://www.youtube-nocookie.com/embed/weLXdwVjSxs",
-        "icono": "🇲🇽"
-      },
-      {
         "titulo": "Nayarit Comunica",
         "enlace": "https://live.iplanay.gob.mx/hls/nayarittv.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "NMás",
-        "enlace": "https://www.youtube-nocookie.com/embed/p2AzyIEuFak",
         "icono": "🇲🇽"
       },
       {
@@ -356,88 +316,8 @@
         "icono": "🇲🇽"
       },
       {
-        "titulo": "Telediario Guadalajara",
-        "enlace": "https://www.youtube-nocookie.com/embed/Deq11TMPVgc",
-        "icono": "🇲🇽"
-      },
-      {
         "titulo": "Teleplay Sureste",
         "enlace": "https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Televisa Del Bajio",
-        "enlace": "https://www.youtube-nocookie.com/embed/1nI-JKuSZ4o",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Televisa Guadalajara",
-        "enlace": "https://www.youtube-nocookie.com/embed/YNcmkKp9eus",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Televisa Guerrero",
-        "enlace": "https://www.youtube-nocookie.com/embed/j-sy9zVWTvA",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Televisa Mexicali",
-        "enlace": "https://www.youtube-nocookie.com/embed/wJgsR9NkVS4",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Televisa Monterrey",
-        "enlace": "https://www.youtube-nocookie.com/embed/2D1tbKEaMvY",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Televisa Piedras Negras",
-        "enlace": "https://www.youtube-nocookie.com/embed/-F2ZAo-zV1k",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Televisa Puebla",
-        "enlace": "https://www.youtube-nocookie.com/embed/A7Yuhq6BhIQ",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Televisa Querétaro",
-        "enlace": "https://www.youtube-nocookie.com/embed/R7mATyop9Q0",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Televisa Sinaloa",
-        "enlace": "https://www.youtube-nocookie.com/embed/-80z0BbHU6c",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Televisa Sonora",
-        "enlace": "https://www.youtube-nocookie.com/embed/Ak6gLgPeofY",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Televisa Univision Saltillo",
-        "enlace": "https://www.youtube-nocookie.com/embed/5NiuZ0AN9vI",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Televisa Veracruz",
-        "enlace": "https://www.youtube-nocookie.com/embed/iCL8BVQS4pM",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Televisa Victoria",
-        "enlace": "https://www.youtube-nocookie.com/embed/dDs1B5sokdY",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Televisa Zacatecas",
-        "enlace": "https://www.youtube-nocookie.com/embed/yrhcdtrb-Ik",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Televisión de Galicia",
-        "enlace": "https://www.youtube-nocookie.com/embed/aw8t8b1rN8c",
         "icono": "🇲🇽"
       },
       {
