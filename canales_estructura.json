@@ -1,0 +1,87 @@
+[
+  {
+    "categoria": "Deportes",
+    "pais": "Internacional",
+    "canales": [
+      { "titulo": "ESPN",          "enlace": "https://tvtvhd.com/canales.php?stream=espn",          "icono": "🏟️" },
+      { "titulo": "ESPN 2",        "enlace": "https://tvtvhd.com/canales.php?stream=espn2",         "icono": "🏟️" },
+      { "titulo": "ESPN 3",        "enlace": "https://tvtvhd.com/canales.php?stream=espn3",         "icono": "🏟️" },
+      { "titulo": "ESPN 4",        "enlace": "https://tvtvhd.com/canales.php?stream=espn4",         "icono": "🏟️" },
+      { "titulo": "ESPN 5",        "enlace": "https://tvtvhd.com/canales.php?stream=espn5",         "icono": "🏟️" },
+      { "titulo": "ESPN Deportes", "enlace": "https://tvtvhd.com/canales.php?stream=espndeportes",  "icono": "🏟️" },
+      { "titulo": "Fox Sports",    "enlace": "https://tvtvhd.com/canales.php?stream=foxsports",     "icono": "🦊" },
+      { "titulo": "Fox Sports 2",  "enlace": "https://tvtvhd.com/canales.php?stream=foxsports2",    "icono": "🦊" },
+      { "titulo": "Fox Sports 3",  "enlace": "https://tvtvhd.com/canales.php?stream=foxsports3",    "icono": "🦊" },
+      { "titulo": "Fox Deportes",  "enlace": "https://tvtvhd.com/canales.php?stream=foxdeportes",   "icono": "🦊" },
+      { "titulo": "TNT Sports",    "enlace": "https://tvtvhd.com/canales.php?stream=tntsports",     "icono": "⚡" },
+      { "titulo": "Disney+",       "enlace": "https://tvtvhd.com/canales.php?stream=espn",          "icono": "✨" }
+    ]
+  },
+  {
+    "categoria": "Deportes",
+    "pais": "México",
+    "canales": [
+      { "titulo": "TUDN",       "enlace": "https://tvtvhd.com/canales.php?stream=tudn",      "icono": "🇲🇽" },
+      { "titulo": "Canal 5 MX", "enlace": "https://tvtvhd.com/canales.php?stream=canal5",    "icono": "🇲🇽" },
+      { "titulo": "Azteca 7",   "enlace": "https://tvtvhd.com/canales.php?stream=azteca7",   "icono": "🇲🇽" },
+      { "titulo": "ESPN MX",    "enlace": "https://tvtvhd.com/canales.php?stream=espnmx",    "icono": "🇲🇽" }
+    ]
+  },
+  {
+    "categoria": "Deportes",
+    "pais": "Guatemala",
+    "canales": [
+      { "titulo": "Canal Antigua GT", "enlace": "https://tvtvhd.com/canales.php?stream=antigua",   "icono": "🇬🇹" },
+      { "titulo": "TreceVisión GT",   "enlace": "https://tvtvhd.com/canales.php?stream=trecevision","icono": "🇬🇹" }
+    ]
+  },
+  {
+    "categoria": "Deportes",
+    "pais": "Argentina",
+    "canales": [
+      { "titulo": "ESPN Premium AR", "enlace": "https://tvtvhd.com/canales.php?stream=espnpremium", "icono": "🇦🇷" },
+      { "titulo": "TyC Sports",      "enlace": "https://tvtvhd.com/canales.php?stream=tycsports",   "icono": "🇦🇷" }
+    ]
+  },
+  {
+    "categoria": "Deportes",
+    "pais": "Chile",
+    "canales": [
+      { "titulo": "TNT Sports CL", "enlace": "https://tvtvhd.com/canales.php?stream=tntsportschile", "icono": "🇨🇱" }
+    ]
+  },
+  {
+    "categoria": "Deportes",
+    "pais": "Perú",
+    "canales": [
+      { "titulo": "Liga1MAX", "enlace": "https://tvtvhd.com/canales.php?stream=liga1max", "icono": "🇵🇪" }
+    ]
+  },
+  {
+    "categoria": "Deportes",
+    "pais": "España",
+    "canales": [
+      { "titulo": "LaLiga TV Hypermotion",   "enlace": "https://tvtvhd.com/canales.php?stream=hypermotion1",  "icono": "🇪🇸" },
+      { "titulo": "LaLiga TV Hypermotion 2", "enlace": "https://tvtvhd.com/canales.php?stream=hypermotion2",  "icono": "🇪🇸" },
+      { "titulo": "BeIN Sports",             "enlace": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes", "icono": "🇪🇸" }
+    ]
+  },
+  {
+    "categoria": "Noticias",
+    "pais": "Internacional",
+    "canales": [
+      { "titulo": "CNN en Español", "enlace": "https://tvtvhd.com/canales.php?stream=cnn",          "icono": "📺" },
+      { "titulo": "BBC World News", "enlace": "https://tvtvhd.com/canales.php?stream=bbc",          "icono": "📺" },
+      { "titulo": "Telesur",        "enlace": "https://tvtvhd.com/canales.php?stream=telesur",      "icono": "📺" }
+    ]
+  },
+  {
+    "categoria": "Entretenimiento",
+    "pais": "Internacional",
+    "canales": [
+      { "titulo": "Discovery",     "enlace": "https://tvtvhd.com/canales.php?stream=discovery",    "icono": "🌍" },
+      { "titulo": "National Geo",  "enlace": "https://tvtvhd.com/canales.php?stream=natgeo",       "icono": "🌍" },
+      { "titulo": "Cartoon Net",   "enlace": "https://tvtvhd.com/canales.php?stream=cartoon",      "icono": "🎨" }
+    ]
+  }
+]
