@@ -3,696 +3,120 @@
     "categoria": "Deportes",
     "pais": "Internacional",
     "canales": [
-      {
-        "titulo": "ESPN",
-        "enlace": "https://tvtvhd.com/canales.php?stream=espn",
-        "icono": "🏟️"
-      },
-      {
-        "titulo": "ESPN 2",
-        "enlace": "https://tvtvhd.com/canales.php?stream=espn2",
-        "icono": "🏟️"
-      },
-      {
-        "titulo": "ESPN 3",
-        "enlace": "https://tvtvhd.com/canales.php?stream=espn3",
-        "icono": "🏟️"
-      },
-      {
-        "titulo": "ESPN 4",
-        "enlace": "https://tvtvhd.com/canales.php?stream=espn4",
-        "icono": "🏟️"
-      },
-      {
-        "titulo": "ESPN 5",
-        "enlace": "https://tvtvhd.com/canales.php?stream=espn5",
-        "icono": "🏟️"
-      },
-      {
-        "titulo": "ESPN Deportes",
-        "enlace": "https://tvtvhd.com/canales.php?stream=espndeportes",
-        "icono": "🏟️"
-      },
-      {
-        "titulo": "Fox Sports",
-        "enlace": "https://tvtvhd.com/canales.php?stream=foxsports",
-        "icono": "🦊"
-      },
-      {
-        "titulo": "Fox Sports 2",
-        "enlace": "https://tvtvhd.com/canales.php?stream=foxsports2",
-        "icono": "🦊"
-      },
-      {
-        "titulo": "Fox Sports 3",
-        "enlace": "https://tvtvhd.com/canales.php?stream=foxsports3",
-        "icono": "🦊"
-      },
-      {
-        "titulo": "Fox Deportes",
-        "enlace": "https://tvtvhd.com/canales.php?stream=foxdeportes",
-        "icono": "🦊"
-      },
-      {
-        "titulo": "TNT Sports",
-        "enlace": "https://tvtvhd.com/canales.php?stream=tntsports",
-        "icono": "⚡"
-      },
-      {
-        "titulo": "Disney+",
-        "enlace": "https://tvtvhd.com/canales.php?stream=espn",
-        "icono": "✨"
-      }
-    ]
-  },
-  {
-    "categoria": "Deportes",
-    "pais": "México",
-    "canales": [
-      {
-        "titulo": "TUDN",
-        "enlace": "https://tvtvhd.com/canales.php?stream=tudn",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Canal 5 MX",
-        "enlace": "https://tvtvhd.com/canales.php?stream=canal5",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Azteca 7",
-        "enlace": "https://tvtvhd.com/canales.php?stream=azteca7",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "ESPN MX",
-        "enlace": "https://tvtvhd.com/canales.php?stream=espnmx",
-        "icono": "🇲🇽"
-      }
+      { "titulo": "ESPN",          "enlace": "https://tvtvhd.com/canales.php?stream=espn",          "icono": "🏟️" },
+      { "titulo": "ESPN 2",        "enlace": "https://tvtvhd.com/canales.php?stream=espn2",         "icono": "🏟️" },
+      { "titulo": "ESPN 3",        "enlace": "https://tvtvhd.com/canales.php?stream=espn3",         "icono": "🏟️" },
+      { "titulo": "ESPN 4",        "enlace": "https://tvtvhd.com/canales.php?stream=espn4",         "icono": "🏟️" },
+      { "titulo": "ESPN 5",        "enlace": "https://tvtvhd.com/canales.php?stream=espn5",         "icono": "🏟️" },
+      { "titulo": "ESPN Deportes", "enlace": "https://tvtvhd.com/canales.php?stream=espndeportes",  "icono": "🏟️" },
+      { "titulo": "ESPN Premium",  "enlace": "https://tvtvhd.com/canales.php?stream=espnpremium",   "icono": "🏟️" }
     ]
   },
   {
     "categoria": "México",
     "pais": "México",
     "canales": [
-      {
-        "titulo": "8NTV",
-        "enlace": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "ADN 40",
-        "enlace": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Alcance TV",
-        "enlace": "https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "AMX Noticias",
-        "enlace": "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Azteca Internacional",
-        "enlace": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "B15 Fresnillo",
-        "enlace": "https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Canal 5 TV Cozumel",
-        "enlace": "https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Canal 10 Durango",
-        "enlace": "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Canal 26",
-        "enlace": "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Canal 33 Tijuana",
-        "enlace": "https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Canal 44",
-        "enlace": "https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Canal Parlamento Jalisco",
-        "enlace": "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Capital 21",
-        "enlace": "https://video.cdmx.gob.mx/redes/stream.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Conecta TV",
-        "enlace": "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "CreaLaTV",
-        "enlace": "https://stream8.mexiserver.com:2000/hls/crealatv/crealatv.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "El Chavo TV",
-        "enlace": "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "El Sonorense",
-        "enlace": "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Expresa TV",
-        "enlace": "https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Filmex",
-        "enlace": "https://filmex-filmex-xumo.amagi.tv/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Filmex Clasico",
-        "enlace": "https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Golden TV",
-        "enlace": "https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Icrtv Colima",
-        "enlace": "https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "ILCE Canal 15 Summa Saberes",
-        "enlace": "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "ITV Deportes",
-        "enlace": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Jalisco TV",
-        "enlace": "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Justicia TV",
-        "enlace": "https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Maria Vision",
-        "enlace": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Mexiquense TV",
-        "enlace": "https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Monte Maria",
-        "enlace": "https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Nayarit Comunica",
-        "enlace": "https://live.iplanay.gob.mx/hls/nayarittv.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Nueve TV",
-        "enlace": "https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Presumiendo Mexico",
-        "enlace": "https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "PSN",
-        "enlace": "https://srspsn.live/live/livestream.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Raly TV",
-        "enlace": "https://cloudvideo.servers10.com:8081/8072/index.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "RCG TV",
-        "enlace": "https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "RTG",
-        "enlace": "https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "RTQ Queretaro",
-        "enlace": "https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "SIPSE TV 8.1",
-        "enlace": "https://webprod.sipse.com.mx:8080/show/merida.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "SIPSE TVCUN 8.1",
-        "enlace": "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Sistema Michoacano de TV",
-        "enlace": "https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "SQCS Canal 4",
-        "enlace": "https://video0.rogohosting.com:19360/4982/4982.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Super Channel 12",
-        "enlace": "https://servilive.com:3263/live/channel12live.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Tele Saltillo",
-        "enlace": "https://servilive.com:3879/live/telesaltillolive.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Tele Yucatan",
-        "enlace": "https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Teleplay Sureste",
-        "enlace": "https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "TRC TV",
-        "enlace": "https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Turistik TV",
-        "enlace": "https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "TV Cuatro 4.1",
-        "enlace": "https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "TV Cuatro 4.2",
-        "enlace": "https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "TV Lobo",
-        "enlace": "https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "TV Mar La Paz",
-        "enlace": "https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "TV Mar Los Cabos",
-        "enlace": "https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "TV Mar Puerto Vallarta",
-        "enlace": "https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "TV UG",
-        "enlace": "https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "TV UJAT",
-        "enlace": "https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "TVP Culiacan",
-        "enlace": "https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "TVP Los Mochis",
-        "enlace": "https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "TVP Mazatlan",
-        "enlace": "https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "TVP Obregon",
-        "enlace": "https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Ultra TV Puebla",
-        "enlace": "https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "UMTV",
-        "enlace": "https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "VB Media TV",
-        "enlace": "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "Vision Television",
-        "enlace": "https://cloudvideo.servers10.com:8081/8016/index.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "XEIPN-TDT",
-        "enlace": "https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "XEWH-TDT",
-        "enlace": "https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "XHBZC-TDT",
-        "enlace": "https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "XHFGL-TDT",
-        "enlace": "https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "XHGV-TDT",
-        "enlace": "https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "XHIJ-TDT",
-        "enlace": "https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "XHPBZC-TDT1",
-        "enlace": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "XHPBZC-TDT2",
-        "enlace": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "XHTTG-TDT",
-        "enlace": "https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "XHUNES-TDT",
-        "enlace": "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8",
-        "icono": "🇲🇽"
-      },
-      {
-        "titulo": "XHZHZ-TDT",
-        "enlace": "https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8",
-        "icono": "🇲🇽"
-      }
-    ]
-  },
-  {
-    "categoria": "Deportes",
-    "pais": "Guatemala",
-    "canales": [
-      {
-        "titulo": "Canal Antigua GT",
-        "enlace": "https://tvtvhd.com/canales.php?stream=antigua",
-        "icono": "🇬🇹"
-      },
-      {
-        "titulo": "TreceVisión GT",
-        "enlace": "https://tvtvhd.com/canales.php?stream=trecevision",
-        "icono": "🇬🇹"
-      }
+      { "titulo": "8NTV",                     "enlace": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",                                          "icono": "🇲🇽" },
+      { "titulo": "ADN 40",                   "enlace": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",                                    "icono": "🇲🇽" },
+      { "titulo": "Alcance TV",               "enlace": "https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8",                                   "icono": "🇲🇽" },
+      { "titulo": "AMX Noticias",             "enlace": "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8",                           "icono": "🇲🇽" },
+      { "titulo": "Azteca Internacional",     "enlace": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",                                                        "icono": "🇲🇽" },
+      { "titulo": "B15 Fresnillo",            "enlace": "https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8",                                                      "icono": "🇲🇽" },
+      { "titulo": "Canal 5 TV Cozumel",       "enlace": "https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8",                                            "icono": "🇲🇽" },
+      { "titulo": "Canal 10 Durango",         "enlace": "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8",                     "icono": "🇲🇽" },
+      { "titulo": "Canal 26",                 "enlace": "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8",                   "icono": "🇲🇽" },
+      { "titulo": "Canal 33 Tijuana",         "enlace": "https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8",                    "icono": "🇲🇽" },
+      { "titulo": "Canal 44",                 "enlace": "https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8",                                 "icono": "🇲🇽" },
+      { "titulo": "Canal Parlamento Jalisco", "enlace": "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8",                                   "icono": "🇲🇽" },
+      { "titulo": "Capital 21",               "enlace": "https://video.cdmx.gob.mx/redes/stream.m3u8",                                                              "icono": "🇲🇽" },
+      { "titulo": "Conecta TV",               "enlace": "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8",                                          "icono": "🇲🇽" },
+      { "titulo": "CreaLaTV",                 "enlace": "https://stream8.mexiserver.com:2000/hls/crealatv/crealatv.m3u8",                                           "icono": "🇲🇽" },
+      { "titulo": "El Chavo TV",              "enlace": "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8",                                       "icono": "🇲🇽" },
+      { "titulo": "El Sonorense",             "enlace": "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8",                                        "icono": "🇲🇽" },
+      { "titulo": "Expresa TV",               "enlace": "https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8",                         "icono": "🇲🇽" },
+      { "titulo": "Filmex",                   "enlace": "https://filmex-filmex-xumo.amagi.tv/playlist.m3u8",                                                        "icono": "🇲🇽" },
+      { "titulo": "Filmex Clasico",           "enlace": "https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8",                                                 "icono": "🇲🇽" },
+      { "titulo": "Golden TV",                "enlace": "https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8",                                                     "icono": "🇲🇽" },
+      { "titulo": "Icrtv Colima",             "enlace": "https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8",                     "icono": "🇲🇽" },
+      { "titulo": "ILCE Canal 15",            "enlace": "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8",                 "icono": "🇲🇽" },
+      { "titulo": "ITV Deportes",             "enlace": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8",                                                      "icono": "🇲🇽" },
+      { "titulo": "Jalisco TV",               "enlace": "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8",                                   "icono": "🇲🇽" },
+      { "titulo": "Justicia TV",              "enlace": "https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8",                              "icono": "🇲🇽" },
+      { "titulo": "Maria Vision",             "enlace": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8",                                "icono": "🇲🇽" },
+      { "titulo": "Mexiquense TV",            "enlace": "https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8",                             "icono": "🇲🇽" },
+      { "titulo": "Monte Maria",              "enlace": "https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8",                             "icono": "🇲🇽" },
+      { "titulo": "Nayarit Comunica",         "enlace": "https://live.iplanay.gob.mx/hls/nayarittv.m3u8",                                                           "icono": "🇲🇽" },
+      { "titulo": "Nueve TV",                 "enlace": "https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8",                                          "icono": "🇲🇽" },
+      { "titulo": "Presumiendo Mexico",       "enlace": "https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8",                     "icono": "🇲🇽" },
+      { "titulo": "PSN",                      "enlace": "https://srspsn.live/live/livestream.m3u8",                                                                  "icono": "🇲🇽" },
+      { "titulo": "Raly TV",                  "enlace": "https://cloudvideo.servers10.com:8081/8072/index.m3u8",                                                    "icono": "🇲🇽" },
+      { "titulo": "RCG TV",                   "enlace": "https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8",                                         "icono": "🇲🇽" },
+      { "titulo": "RTG",                      "enlace": "https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/playlist.m3u8",                       "icono": "🇲🇽" },
+      { "titulo": "RTQ Queretaro",            "enlace": "https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8",                                 "icono": "🇲🇽" },
+      { "titulo": "SIPSE TV 8.1",             "enlace": "https://webprod.sipse.com.mx:8080/show/merida.m3u8",                                                       "icono": "🇲🇽" },
+      { "titulo": "SIPSE TVCUN 8.1",          "enlace": "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8",                                                        "icono": "🇲🇽" },
+      { "titulo": "Sistema Michoacano de TV", "enlace": "https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8",                                                "icono": "🇲🇽" },
+      { "titulo": "SQCS Canal 4",             "enlace": "https://video0.rogohosting.com:19360/4982/4982.m3u8",                                                      "icono": "🇲🇽" },
+      { "titulo": "Super Channel 12",         "enlace": "https://servilive.com:3263/live/channel12live.m3u8",                                                       "icono": "🇲🇽" },
+      { "titulo": "Tele Saltillo",            "enlace": "https://servilive.com:3879/live/telesaltillolive.m3u8",                                                    "icono": "🇲🇽" },
+      { "titulo": "Tele Yucatan",             "enlace": "https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8",                          "icono": "🇲🇽" },
+      { "titulo": "Teleplay Sureste",         "enlace": "https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8",                                      "icono": "🇲🇽" },
+      { "titulo": "TRC TV",                   "enlace": "https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8",                                          "icono": "🇲🇽" },
+      { "titulo": "Turistik TV",              "enlace": "https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8",                                        "icono": "🇲🇽" },
+      { "titulo": "TV Cuatro 4.1",            "enlace": "https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8",                                                  "icono": "🇲🇽" },
+      { "titulo": "TV Cuatro 4.2",            "enlace": "https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8",                                                "icono": "🇲🇽" },
+      { "titulo": "TV Lobo",                  "enlace": "https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8",                          "icono": "🇲🇽" },
+      { "titulo": "TV Mar La Paz",            "enlace": "https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8",                       "icono": "🇲🇽" },
+      { "titulo": "TV Mar Los Cabos",         "enlace": "https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8",                 "icono": "🇲🇽" },
+      { "titulo": "TV Mar Puerto Vallarta",   "enlace": "https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8",                      "icono": "🇲🇽" },
+      { "titulo": "TV UG",                    "enlace": "https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8",                    "icono": "🇲🇽" },
+      { "titulo": "TV UJAT",                  "enlace": "https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8",                                        "icono": "🇲🇽" },
+      { "titulo": "TVP Culiacan",             "enlace": "https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8",                       "icono": "🇲🇽" },
+      { "titulo": "TVP Los Mochis",           "enlace": "https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8",                                "icono": "🇲🇽" },
+      { "titulo": "TVP Mazatlan",             "enlace": "https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8",                         "icono": "🇲🇽" },
+      { "titulo": "TVP Obregon",              "enlace": "https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8",                               "icono": "🇲🇽" },
+      { "titulo": "Ultra TV Puebla",          "enlace": "https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8",                   "icono": "🇲🇽" },
+      { "titulo": "UMTV",                     "enlace": "https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8",                        "icono": "🇲🇽" },
+      { "titulo": "VB Media TV",              "enlace": "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8",                                "icono": "🇲🇽" },
+      { "titulo": "Vision Television",        "enlace": "https://cloudvideo.servers10.com:8081/8016/index.m3u8",                                                    "icono": "🇲🇽" },
+      { "titulo": "XEIPN-TDT",               "enlace": "https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8",                                       "icono": "🇲🇽" },
+      { "titulo": "XEWH-TDT",                "enlace": "https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8",                                                 "icono": "🇲🇽" },
+      { "titulo": "XHBZC-TDT",               "enlace": "https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8",                                               "icono": "🇲🇽" },
+      { "titulo": "XHFGL-TDT",               "enlace": "https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8",                                         "icono": "🇲🇽" },
+      { "titulo": "XHGV-TDT",                "enlace": "https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8",                                          "icono": "🇲🇽" },
+      { "titulo": "XHIJ-TDT",                "enlace": "https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8",                                   "icono": "🇲🇽" },
+      { "titulo": "XHPBZC-TDT1",             "enlace": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8",                                          "icono": "🇲🇽" },
+      { "titulo": "XHPBZC-TDT2",             "enlace": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8",                                          "icono": "🇲🇽" },
+      { "titulo": "XHTTG-TDT",               "enlace": "https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8",                                  "icono": "🇲🇽" },
+      { "titulo": "XHUNES-TDT",              "enlace": "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8",                                             "icono": "🇲🇽" },
+      { "titulo": "XHZHZ-TDT",               "enlace": "https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8",                              "icono": "🇲🇽" }
     ]
   },
   {
     "categoria": "Guatemala",
     "pais": "Guatemala",
     "canales": [
-      {
-        "titulo": "Amigos TV Chiquimula",
-        "enlace": "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8",
-        "icono": "🇬🇹"
-      },
-      {
-        "titulo": "Aurora Media Films",
-        "enlace": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8",
-        "icono": "🇬🇹"
-      },
-      {
-        "titulo": "Canal 6 Panadish",
-        "enlace": "https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8",
-        "icono": "🇬🇹"
-      },
-      {
-        "titulo": "Canal 9 Barbe TV",
-        "enlace": "https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8",
-        "icono": "🇬🇹"
-      },
-      {
-        "titulo": "Canal 30 TV Bethel",
-        "enlace": "https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8",
-        "icono": "🇬🇹"
-      },
-      {
-        "titulo": "El-Roi TV",
-        "enlace": "https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8",
-        "icono": "🇬🇹"
-      },
-      {
-        "titulo": "Espíritu Santo Y Fuego TV",
-        "enlace": "https://inliveserver.com:1936/8392/8392/playlist.m3u8",
-        "icono": "🇬🇹"
-      },
-      {
-        "titulo": "Maxivisión TV",
-        "enlace": "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8",
-        "icono": "🇬🇹"
-      },
-      {
-        "titulo": "Multivisión Canal 3",
-        "enlace": "https://stream.digitalgt.com:3136/live/multivisionlive.m3u8",
-        "icono": "🇬🇹"
-      },
-      {
-        "titulo": "Multivisión Sports",
-        "enlace": "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8",
-        "icono": "🇬🇹"
-      },
-      {
-        "titulo": "Nim TV",
-        "enlace": "https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8",
-        "icono": "🇬🇹"
-      },
-      {
-        "titulo": "Peniel Kids & Young",
-        "enlace": "https://s.emisoras.tv:8081/penielkids/index.m3u8",
-        "icono": "🇬🇹"
-      },
-      {
-        "titulo": "Peniel Musical",
-        "enlace": "https://s.emisoras.tv:8081/penielmusical/index.m3u8",
-        "icono": "🇬🇹"
-      },
-      {
-        "titulo": "Peniel TV Biblia Abierta",
-        "enlace": "https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8",
-        "icono": "🇬🇹"
-      },
-      {
-        "titulo": "Rhema TV",
-        "enlace": "https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8",
-        "icono": "🇬🇹"
-      },
-      {
-        "titulo": "SIL TV",
-        "enlace": "https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8",
-        "icono": "🇬🇹"
-      },
-      {
-        "titulo": "Sol TV",
-        "enlace": "https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8",
-        "icono": "🇬🇹"
-      },
-      {
-        "titulo": "TV Florencia",
-        "enlace": "https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8",
-        "icono": "🇬🇹"
-      },
-      {
-        "titulo": "TV Maya",
-        "enlace": "https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8",
-        "icono": "🇬🇹"
-      },
-      {
-        "titulo": "TVS Retro",
-        "enlace": "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8",
-        "icono": "🇬🇹"
-      },
-      {
-        "titulo": "Visión TV",
-        "enlace": "https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8",
-        "icono": "🇬🇹"
-      }
-    ]
-  },
-  {
-    "categoria": "Deportes",
-    "pais": "Argentina",
-    "canales": [
-      {
-        "titulo": "ESPN Premium AR",
-        "enlace": "https://tvtvhd.com/canales.php?stream=espnpremium",
-        "icono": "🇦🇷"
-      },
-      {
-        "titulo": "TyC Sports",
-        "enlace": "https://tvtvhd.com/canales.php?stream=tycsports",
-        "icono": "🇦🇷"
-      }
-    ]
-  },
-  {
-    "categoria": "Deportes",
-    "pais": "Chile",
-    "canales": [
-      {
-        "titulo": "TNT Sports CL",
-        "enlace": "http://190.60.37.154:45000/play/a05o/index.m3u8",
-        "icono": "🇨🇱"
-      }
-    ]
-  },
-  {
-    "categoria": "Deportes",
-    "pais": "Perú",
-    "canales": [
-      {
-        "titulo": "Liga1MAX",
-        "enlace": "https://tvtvhd.com/canales.php?stream=liga1max",
-        "icono": "🇵🇪"
-      }
-    ]
-  },
-  {
-    "categoria": "Deportes",
-    "pais": "España",
-    "canales": [
-      {
-        "titulo": "LaLiga TV Hypermotion",
-        "enlace": "https://tvtvhd.com/canales.php?stream=hypermotion1",
-        "icono": "🇪🇸"
-      },
-      {
-        "titulo": "LaLiga TV Hypermotion 2",
-        "enlace": "https://tvtvhd.com/canales.php?stream=hypermotion2",
-        "icono": "🇪🇸"
-      },
-      {
-        "titulo": "BeIN Sports",
-        "enlace": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes",
-        "icono": "🇪🇸"
-      }
-    ]
-  },
-  {
-    "categoria": "Noticias",
-    "pais": "Internacional",
-    "canales": [
-      {
-        "titulo": "CNN en Español",
-        "enlace": "https://tvtvhd.com/canales.php?stream=cnn",
-        "icono": "📺"
-      },
-      {
-        "titulo": "BBC World News",
-        "enlace": "https://tvtvhd.com/canales.php?stream=bbc",
-        "icono": "📺"
-      },
-      {
-        "titulo": "Telesur",
-        "enlace": "https://tvtvhd.com/canales.php?stream=telesur",
-        "icono": "📺"
-      }
-    ]
-  },
-  {
-    "categoria": "Entretenimiento",
-    "pais": "Internacional",
-    "canales": [
-      {
-        "titulo": "Discovery",
-        "enlace": "https://tvtvhd.com/canales.php?stream=discovery",
-        "icono": "🌍"
-      },
-      {
-        "titulo": "National Geo",
-        "enlace": "https://tvtvhd.com/canales.php?stream=natgeo",
-        "icono": "🌍"
-      },
-      {
-        "titulo": "Cartoon Net",
-        "enlace": "https://tvtvhd.com/canales.php?stream=cartoon",
-        "icono": "🎨"
-      }
+      { "titulo": "Amigos TV Chiquimula",    "enlace": "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8", "icono": "🇬🇹" },
+      { "titulo": "Aurora Media Films",      "enlace": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8",                                      "icono": "🇬🇹" },
+      { "titulo": "Canal 6 Panadish",        "enlace": "https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8",                        "icono": "🇬🇹" },
+      { "titulo": "Canal 9 Barbe TV",        "enlace": "https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8",                                       "icono": "🇬🇹" },
+      { "titulo": "Canal 30 TV Bethel",      "enlace": "https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8",                                            "icono": "🇬🇹" },
+      { "titulo": "El-Roi TV",               "enlace": "https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8",                                       "icono": "🇬🇹" },
+      { "titulo": "Espíritu Santo Y Fuego",  "enlace": "https://inliveserver.com:1936/8392/8392/playlist.m3u8",                                            "icono": "🇬🇹" },
+      { "titulo": "Maxivisión TV",           "enlace": "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8",                        "icono": "🇬🇹" },
+      { "titulo": "Multivisión Canal 3",     "enlace": "https://stream.digitalgt.com:3136/live/multivisionlive.m3u8",                                      "icono": "🇬🇹" },
+      { "titulo": "Multivisión Sports",      "enlace": "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8",                                "icono": "🇬🇹" },
+      { "titulo": "Nim TV",                  "enlace": "https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8",                                       "icono": "🇬🇹" },
+      { "titulo": "Peniel Kids & Young",     "enlace": "https://s.emisoras.tv:8081/penielkids/index.m3u8",                                                  "icono": "🇬🇹" },
+      { "titulo": "Peniel Musical",          "enlace": "https://s.emisoras.tv:8081/penielmusical/index.m3u8",                                              "icono": "🇬🇹" },
+      { "titulo": "Peniel TV Biblia Abierta","enlace": "https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8",                                        "icono": "🇬🇹" },
+      { "titulo": "Rhema TV",                "enlace": "https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8",                                     "icono": "🇬🇹" },
+      { "titulo": "SIL TV",                  "enlace": "https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8",                     "icono": "🇬🇹" },
+      { "titulo": "Sol TV",                  "enlace": "https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8",                                         "icono": "🇬🇹" },
+      { "titulo": "TV Florencia",            "enlace": "https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8",                                    "icono": "🇬🇹" },
+      { "titulo": "TV Maya",                 "enlace": "https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8",                              "icono": "🇬🇹" },
+      { "titulo": "TVS Retro",               "enlace": "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8",                                    "icono": "🇬🇹" },
+      { "titulo": "Visión TV",               "enlace": "https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8",                                      "icono": "🇬🇹" }
     ]
   }
 ]
