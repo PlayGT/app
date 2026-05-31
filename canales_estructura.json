@@ -430,6 +430,11 @@
         "icono": "🇬🇹"
       },
       {
+        "titulo": "Intercom TV",
+        "enlace": "https://live.intercomtvgt.com:3855/live/intercablelive.m3u8",
+        "icono": "🇬🇹"
+      },
+      {
         "titulo": "Maxivisión TV",
         "enlace": "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8",
         "icono": "🇬🇹"
@@ -442,6 +447,11 @@
       {
         "titulo": "Multivisión Sports",
         "enlace": "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8",
+        "icono": "🇬🇹"
+      },
+      {
+        "titulo": "Más TV",
+        "enlace": "https://cdn.streamhispanatv.net:3011/live/mastvgtlive.m3u8",
         "icono": "🇬🇹"
       },
       {
