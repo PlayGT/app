@@ -4498,5 +4498,501 @@
         "icono": "🇺🇾"
       }
     ]
+  },
+  {
+    "categoria": "Brasil",
+    "pais": "Brasil",
+    "canales": [
+      {
+        "titulo": "AWTV",
+        "enlace": "https://awtv.nuvemplay.live/hls/stream.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "Adesso TV",
+        "enlace": "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "Amazon Sat",
+        "enlace": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "Boas Novas",
+        "enlace": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "CINDIE TV",
+        "enlace": "https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "COM Brasil",
+        "enlace": "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "Canal 38",
+        "enlace": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "Canal Educacao",
+        "enlace": "https://canaleducacao-stream.ebc.com.br/index.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "Canal Gov",
+        "enlace": "https://canalgov-stream.ebc.com.br/index.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "CazeTV",
+        "enlace": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "Chroma TV",
+        "enlace": "https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "Classique TV",
+        "enlace": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "Demais TV",
+        "enlace": "https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "Despertar TV",
+        "enlace": "https://cdn.live.br1.jmvstream.com/webtv/pejexypz/playlist/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "EUTV",
+        "enlace": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "ElyTV",
+        "enlace": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "Fala Litoral",
+        "enlace": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "Fora Tedio TV",
+        "enlace": "https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "Geekdot",
+        "enlace": "https://stream.ichibantv.com:3764/hybrid/play.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "Gospel Cartoon",
+        "enlace": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "Gospel Movie TV",
+        "enlace": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "IMPD TV Worldwide",
+        "enlace": "https://igrejamundial.nuvemplay.live/hls/stream.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "ISTV",
+        "enlace": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "Loading",
+        "enlace": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "MyTime Movie Network",
+        "enlace": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "NickOnline",
+        "enlace": "https://x1co.com.br/hls/stream.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "NickToons Brasil",
+        "enlace": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "Play TV",
+        "enlace": "https://isaocorp.cloudecast.com/playtv/index.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "Plena TV",
+        "enlace": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "RBATV",
+        "enlace": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "RIT TV",
+        "enlace": "https://acesso.ecast.site:3648/live/ritlive.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "Record",
+        "enlace": "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "Record News",
+        "enlace": "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "Red Bull TV BR",
+        "enlace": "https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "Rede Globo",
+        "enlace": "https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "Rede Gospel",
+        "enlace": "https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "Rede NGT",
+        "enlace": "https://isaocorp.cloudecast.com/ngt/index.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "Rede SPTV",
+        "enlace": "https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "Rádio Temas de Novelas",
+        "enlace": "https://eu1.servers10.com:8081/8126/index.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "SBT Interior",
+        "enlace": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "SBT Nova Mutum",
+        "enlace": "https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "SBT Rondonopolis",
+        "enlace": "https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "SBT Sinop",
+        "enlace": "https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "SIC TV",
+        "enlace": "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "STZ TV",
+        "enlace": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "Santa Cecilia TV",
+        "enlace": "https://video10.logicahost.com.br/unisanta/unisanta/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TCM 10 HD",
+        "enlace": "https://live.tcm10.com.br/tcm10hd/stream.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV A Critica",
+        "enlace": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV A Folha",
+        "enlace": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Aldeia",
+        "enlace": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Alianca Catarinense",
+        "enlace": "https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Alternativa",
+        "enlace": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Aparecida",
+        "enlace": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Arapuan",
+        "enlace": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV BRICS Portuguese",
+        "enlace": "https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Brasil",
+        "enlace": "https://tvbrasil-stream.ebc.com.br/index.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Brasil Oeste",
+        "enlace": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Brusque",
+        "enlace": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Camara",
+        "enlace": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Cancao Nova",
+        "enlace": "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Cidade Verde Cuiaba",
+        "enlace": "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Clube",
+        "enlace": "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Comunitaria",
+        "enlace": "https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Cultura",
+        "enlace": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Curuca",
+        "enlace": "https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Encontro das Aguas",
+        "enlace": "https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Guara",
+        "enlace": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Life America",
+        "enlace": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV MAX",
+        "enlace": "https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Mais Marica",
+        "enlace": "https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Marajoara",
+        "enlace": "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Modelo",
+        "enlace": "https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Padre Cicero",
+        "enlace": "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Pampa",
+        "enlace": "https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Pantanal MS",
+        "enlace": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Paraense",
+        "enlace": "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Parana Turismo",
+        "enlace": "https://200.189.113.201/hls/tve.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Passo Fundo",
+        "enlace": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Sao Raimundo",
+        "enlace": "https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Series",
+        "enlace": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Sim Cachoeiro",
+        "enlace": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Sim Colatina",
+        "enlace": "https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Sim Sao Mateus",
+        "enlace": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Sul de Minas",
+        "enlace": "https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Terceiro Anjo",
+        "enlace": "https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV UFOP",
+        "enlace": "https://app.tvufop.com.br/hls/tvufop.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Universal",
+        "enlace": "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Vicosa",
+        "enlace": "https://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Vila Real",
+        "enlace": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TV Zoom",
+        "enlace": "https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TVC-Rio",
+        "enlace": "https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TVCOM Maceio",
+        "enlace": "https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TVE RS",
+        "enlace": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TVNBN",
+        "enlace": "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TVideoNews",
+        "enlace": "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "TikTok Radio Brasil",
+        "enlace": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "UMA TV",
+        "enlace": "https://umatv.nuvemplay.live/hls/stream.m3u8",
+        "icono": "🇧🇷"
+      },
+      {
+        "titulo": "ge Fast",
+        "enlace": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8",
+        "icono": "🇧🇷"
+      }
+    ]
   }
 ]
