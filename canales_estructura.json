@@ -1,46 +1,5 @@
 [
   {
-    "categoria": "Deportes",
-    "pais": "Internacional",
-    "canales": [
-      {
-        "titulo": "ESPN",
-        "enlace": "https://tvtvhd.com/canales.php?stream=espn",
-        "icono": "🏟️"
-      },
-      {
-        "titulo": "ESPN 2",
-        "enlace": "https://tvtvhd.com/canales.php?stream=espn2",
-        "icono": "🏟️"
-      },
-      {
-        "titulo": "ESPN 3",
-        "enlace": "https://tvtvhd.com/canales.php?stream=espn3",
-        "icono": "🏟️"
-      },
-      {
-        "titulo": "ESPN 4",
-        "enlace": "https://tvtvhd.com/canales.php?stream=espn4",
-        "icono": "🏟️"
-      },
-      {
-        "titulo": "ESPN 5",
-        "enlace": "https://tvtvhd.com/canales.php?stream=espn5",
-        "icono": "🏟️"
-      },
-      {
-        "titulo": "ESPN Deportes",
-        "enlace": "https://tvtvhd.com/canales.php?stream=espndeportes",
-        "icono": "🏟️"
-      },
-      {
-        "titulo": "ESPN Premium",
-        "enlace": "https://tvtvhd.com/canales.php?stream=espnpremium",
-        "icono": "🏟️"
-      }
-    ]
-  },
-  {
     "categoria": "México",
     "pais": "México",
     "canales": [
@@ -436,23 +395,8 @@
         "icono": "🇬🇹"
       },
       {
-        "titulo": "Canal 3",
-        "enlace": "https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/ts:abr.m3u8",
-        "icono": "🇬🇹"
-      },
-      {
-        "titulo": "Canal 7",
-        "enlace": "https://d2qsan2ut81n2k.cloudfront.net/live/ce4f4915-0383-4e38-834b-6aca224d028e/ts:abr.m3u8",
-        "icono": "🇬🇹"
-      },
-      {
         "titulo": "Canal 9 Barbe TV",
         "enlace": "https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8",
-        "icono": "🇬🇹"
-      },
-      {
-        "titulo": "Canal 27",
-        "enlace": "https://ch1-c27.duin.dev/hls/0/stream.m3u8",
         "icono": "🇬🇹"
       },
       {
@@ -533,11 +477,6 @@
       {
         "titulo": "TVS Retro",
         "enlace": "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8",
-        "icono": "🇬🇹"
-      },
-      {
-        "titulo": "TN23",
-        "enlace": "https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/ts:abr.m3u8",
         "icono": "🇬🇹"
       },
       {
@@ -895,6 +834,3668 @@
         "titulo": "Xtrema Terror",
         "enlace": "https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8",
         "icono": "🇦🇷"
+      }
+    ]
+  },
+  {
+    "categoria": "Bolivia",
+    "pais": "Bolivia",
+    "canales": [
+      {
+        "titulo": "F10 HD",
+        "enlace": "https://tv2.bitstreaming.net:3235/multi_live/play.m3u8",
+        "icono": "🇧🇴"
+      },
+      {
+        "titulo": "FTV",
+        "enlace": "https://master.tucableip.com/ftvhd/index.m3u8",
+        "icono": "🇧🇴"
+      },
+      {
+        "titulo": "Palenque TV",
+        "enlace": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
+        "icono": "🇧🇴"
+      },
+      {
+        "titulo": "RTP",
+        "enlace": "https://rtp.noxun.net/hls/stream.m3u8",
+        "icono": "🇧🇴"
+      },
+      {
+        "titulo": "Red CCTV",
+        "enlace": "https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8",
+        "icono": "🇧🇴"
+      },
+      {
+        "titulo": "Red TV Shop",
+        "enlace": "https://master.tucableip.com/redtvshop/index.m3u8",
+        "icono": "🇧🇴"
+      },
+      {
+        "titulo": "UMSA TVU Internacional",
+        "enlace": "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8",
+        "icono": "🇧🇴"
+      },
+      {
+        "titulo": "UPEA TV",
+        "enlace": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
+        "icono": "🇧🇴"
+      },
+      {
+        "titulo": "Unifranz",
+        "enlace": "https://live.enhdtv.com:8081/8192/index.m3u8",
+        "icono": "🇧🇴"
+      },
+      {
+        "titulo": "Univalle Television",
+        "enlace": "https://master.tucableip.com/univalletv/playlist.m3u8",
+        "icono": "🇧🇴"
+      },
+      {
+        "titulo": "VTV Canal 17",
+        "enlace": "https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8",
+        "icono": "🇧🇴"
+      }
+    ]
+  },
+  {
+    "categoria": "Chile",
+    "pais": "Chile",
+    "canales": [
+      {
+        "titulo": "13 Festival",
+        "enlace": "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "13 Humor",
+        "enlace": "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "13 Realities",
+        "enlace": "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "13C",
+        "enlace": "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "13T",
+        "enlace": "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "AE Radio TV",
+        "enlace": "https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "Antofagasta TV",
+        "enlace": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "Atacama Noticias",
+        "enlace": "https://v2.tustreaming.cl/atacamanoticias/index.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "Atacama TV",
+        "enlace": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "CampusTV",
+        "enlace": "https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "Canal 1 Nuble",
+        "enlace": "https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "Canal 2 Quellon",
+        "enlace": "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "Canal 9 Bio-Bio Television",
+        "enlace": "https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "Canal ISB",
+        "enlace": "https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "Chile Channel",
+        "enlace": "https://v2.tustreaming.cl/chilechannel/index.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "Chiloe Red 25",
+        "enlace": "https://v2.tustreaming.cl/chiloered/index.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "ClickTV Chile",
+        "enlace": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "Contivision",
+        "enlace": "https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "Dance FM",
+        "enlace": "https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "Decima TV",
+        "enlace": "https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "EnerGeek",
+        "enlace": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "EnerGeek FAN",
+        "enlace": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "EnerGeek Radio",
+        "enlace": "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "Girovisual",
+        "enlace": "https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "Holvoet TV",
+        "enlace": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "ITV Patagonia",
+        "enlace": "https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "La Popular TV",
+        "enlace": "https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "MTNA TV",
+        "enlace": "https://live.mtna.tv/hls/mtna/mtna.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "NCTV",
+        "enlace": "https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "PRIDEtv LATAM",
+        "enlace": "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "Pichilemu TV",
+        "enlace": "https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "Pucon TV",
+        "enlace": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "Puranoticia TV",
+        "enlace": "https://pnt.janusmedia.tv/hls/pnt.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "Radio Ritmo FM",
+        "enlace": "https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "Retro Plus 2",
+        "enlace": "https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "SUR TV",
+        "enlace": "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "Santa Maria Television",
+        "enlace": "https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "Solo Bailalo",
+        "enlace": "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "T-Vinet",
+        "enlace": "https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "TNE",
+        "enlace": "https://v2.tustreaming.cl/tnetv/index.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "TV Senado",
+        "enlace": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "TV UCT",
+        "enlace": "https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "TVN3",
+        "enlace": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "TVO San Vicente",
+        "enlace": "https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "TVR",
+        "enlace": "https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "TVU",
+        "enlace": "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "Teletrak TV",
+        "enlace": "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "Televida",
+        "enlace": "https://tls-cl.cdnz.cl/televida/live/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "Tevex",
+        "enlace": "https://v4.tustreaming.cl/tevexinter/index.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "Thema Television",
+        "enlace": "https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "Turf Movil",
+        "enlace": "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "U Los Lagos TV",
+        "enlace": "https://tv.ulagos.cl/web/live.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "UATV",
+        "enlace": "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "UCV TV",
+        "enlace": "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "UTV",
+        "enlace": "https://v2.tustreaming.cl/utv/index.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "VC Online",
+        "enlace": "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8",
+        "icono": "🇨🇱"
+      },
+      {
+        "titulo": "VTV Valle de Aconcagua",
+        "enlace": "https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8",
+        "icono": "🇨🇱"
+      }
+    ]
+  },
+  {
+    "categoria": "Colombia",
+    "pais": "Colombia",
+    "canales": [
+      {
+        "titulo": "Avivamiento TV",
+        "enlace": "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "BUM Television",
+        "enlace": "https://movil.ejeserver.com/live/visiondorada.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Bendicion Channel",
+        "enlace": "https://s.emisoras.tv:8081/bendicionchannel/index.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Blu Radio",
+        "enlace": "https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "CMB Television",
+        "enlace": "https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "CNC Bugavision",
+        "enlace": "https://movil.ejeserver.com/live/cncbuga.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "CNC Pereira",
+        "enlace": "https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "CNC Santander de Quilichao",
+        "enlace": "https://movil.ejeserver.com/live/cncsantander.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "CaliTV",
+        "enlace": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Canal 14 Codazzi",
+        "enlace": "https://eu1.servers10.com:8081/8056/index.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Canal 2 Alpavision Neiva",
+        "enlace": "https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Canal 55 Telemorisco TV",
+        "enlace": "https://canal.mediaserver.com.co/live/telemorisco.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Canal 8 TV+",
+        "enlace": "https://movil.ejeserver.com/live/canal8tv.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Canal Calima TV",
+        "enlace": "https://movil.ejeserver.com/live/calimatv.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Canal Institucional",
+        "enlace": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Canal Mas Television",
+        "enlace": "https://movil.ejeserver.com/live/teledoradahd.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Canal Nets",
+        "enlace": "https://movil.ejeserver.com/live/nets.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Canal Oracion Con Son",
+        "enlace": "https://canal.mediaserver.com.co/live/oracionconson.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Canal PyC",
+        "enlace": "https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Canal Telefamilia",
+        "enlace": "https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Canica TV",
+        "enlace": "https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Cristovision",
+        "enlace": "https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Eduvision",
+        "enlace": "https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "El Mundo del Campo",
+        "enlace": "https://movil.ejeserver.com/live/elmundodelcampo.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Frecuencia F TV",
+        "enlace": "https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Kalu TV",
+        "enlace": "https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "La Cantina Memorias",
+        "enlace": "https://video.xtrematv.com:3208/live/memoriaslacantinalive.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "La Cheverisima Radio TV",
+        "enlace": "https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "La Hermandad Salsera",
+        "enlace": "https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "La Kalle",
+        "enlace": "https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "La Morada Radio TV",
+        "enlace": "https://movil.ejeserver.com/live/lamoradatv.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "MCI Television",
+        "enlace": "https://video.ejeserver.com/live/mcitelevision.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Mas Norte TV",
+        "enlace": "https://live.arnoproducciones.com/hls/norte.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "MasMusica FM",
+        "enlace": "https://movil.ejeserver.com/live/masmusica.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Memorias FM Pop Latino",
+        "enlace": "https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Memorias TV Classic",
+        "enlace": "https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Memorias TV Film",
+        "enlace": "https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Memorias TV Series",
+        "enlace": "https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Memorias TV Toons",
+        "enlace": "https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Memorias TV Tropical",
+        "enlace": "https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Memorias del Corazon",
+        "enlace": "https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "NSTV",
+        "enlace": "https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Noticiero 90 Minutos",
+        "enlace": "https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Oasis TV",
+        "enlace": "https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Ondambiental TV",
+        "enlace": "https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Parranda Vallenata",
+        "enlace": "https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Red+",
+        "enlace": "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Reyali",
+        "enlace": "https://eu1.servers10.com:8081/8090/index.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Salsa Gorda Television",
+        "enlace": "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Senal Colombia",
+        "enlace": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Supermusica TV",
+        "enlace": "https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Suram TV",
+        "enlace": "https://us.streaminghd.cl/suramtv/index.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Telebolivar",
+        "enlace": "https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Teleislas",
+        "enlace": "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Telesangil",
+        "enlace": "https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "TeveColombia",
+        "enlace": "https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Tu Universo TV",
+        "enlace": "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "UMC TV",
+        "enlace": "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8",
+        "icono": "🇨🇴"
+      },
+      {
+        "titulo": "Ultra Casanare TV",
+        "enlace": "https://eu1.servers10.com:8081/8072/index.m3u8",
+        "icono": "🇨🇴"
+      }
+    ]
+  },
+  {
+    "categoria": "Costa Rica",
+    "pais": "Costa Rica",
+    "canales": [
+      {
+        "titulo": "360 RFTV",
+        "enlace": "https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "88 Stereo",
+        "enlace": "https://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "Antena Seis TV",
+        "enlace": "https://video1.azulstream.com:8081/antenaseistv/index.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "BestClasicosTV",
+        "enlace": "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "Canal 1",
+        "enlace": "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "Canal 10",
+        "enlace": "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "Canal 17 TV Nosara",
+        "enlace": "https://latamvdo.com:3870/hybrid/play.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "Canal 3 KMK TV",
+        "enlace": "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "Cartago Medios TV",
+        "enlace": "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "Colosal TV",
+        "enlace": "https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "Costa Rica Channel",
+        "enlace": "https://video0.rogohosting.com:19360/8006/8006.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "Coto Brus TV",
+        "enlace": "https://cloudvideo.servers10.com:8081/8030/index.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "Enlace",
+        "enlace": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "Extrema Kids TV",
+        "enlace": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "Extrema TV",
+        "enlace": "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "GAMTV.cr",
+        "enlace": "https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "Garabito TV",
+        "enlace": "https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "Gex TV",
+        "enlace": "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "IQ Channel",
+        "enlace": "https://rtmp.info/iqtv/envivo/playlist.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "Limon TV",
+        "enlace": "https://k4.usastreams.com/limontv1/limontv1/playlist.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "Los Santos TV",
+        "enlace": "https://lstv.duckdns.org:449/hls/lstv.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "NicoyaTV",
+        "enlace": "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "Norte Informativo TV",
+        "enlace": "https://videohd.live:19360/8076/8076.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "Quince UCR",
+        "enlace": "https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "Retrox TV",
+        "enlace": "https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "SOY Plancha TV",
+        "enlace": "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "San Jose TV",
+        "enlace": "https://rtmp.info/sanjosetv/envivo/playlist.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "Sarapiqui TV",
+        "enlace": "https://lstv.duckdns.org:449/hls/stv.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "TDtv",
+        "enlace": "https://cloudvideo.servers10.com:8081/8230/index.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "TV Sur Canal 14",
+        "enlace": "https://k20.usastreams.com:8081/tvsur/index.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "Tele Uno",
+        "enlace": "https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "TeleBrunca",
+        "enlace": "https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "TeleMas",
+        "enlace": "https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "TeleSUR Costa Rica",
+        "enlace": "https://s1.tvdatta.com:3582/live/telesurlive.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "Telefides",
+        "enlace": "https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "Telered Television",
+        "enlace": "https://k20.usastreams.com:8081/telered/index.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "TicaVision",
+        "enlace": "https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "Urbano TV",
+        "enlace": "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "VM Latino",
+        "enlace": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "Video Tour Channel",
+        "enlace": "https://k4.usastreams.com/videotour/videotour/playlist.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "Vintage Music",
+        "enlace": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "Zurqui TV",
+        "enlace": "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8",
+        "icono": "🇨🇷"
+      },
+      {
+        "titulo": "¡OPA!",
+        "enlace": "https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8",
+        "icono": "🇨🇷"
+      }
+    ]
+  },
+  {
+    "categoria": "Cuba",
+    "pais": "Cuba",
+    "canales": [
+      {
+        "titulo": "Canal Educativo",
+        "enlace": "https://tv.picta.cu/educativo/educativo_0.m3u8",
+        "icono": "🇨🇺"
+      },
+      {
+        "titulo": "Cubavision",
+        "enlace": "https://tvhd.picta.cu/cubavisionhd/cubavisionhd_master.m3u8",
+        "icono": "🇨🇺"
+      },
+      {
+        "titulo": "Cubavision Internacional",
+        "enlace": "https://tv.picta.cu/cvi/cvi_0.m3u8",
+        "icono": "🇨🇺"
+      },
+      {
+        "titulo": "Multivision",
+        "enlace": "https://tv.picta.cu/multivision/multivision_1.m3u8",
+        "icono": "🇨🇺"
+      },
+      {
+        "titulo": "Prensa Latina TV",
+        "enlace": "https://eu1.servers10.com:8081/8192/index.m3u8",
+        "icono": "🇨🇺"
+      },
+      {
+        "titulo": "Tele Rebelde",
+        "enlace": "https://tv.picta.cu/telerebelde/telerebelde_1.m3u8",
+        "icono": "🇨🇺"
+      }
+    ]
+  },
+  {
+    "categoria": "República Dominicana",
+    "pais": "República Dominicana",
+    "canales": [
+      {
+        "titulo": "AION TV",
+        "enlace": "https://edge.essastream.com/aiontelevision/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Adoram TV",
+        "enlace": "https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Ahora TV",
+        "enlace": "https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Alcarrizos TV",
+        "enlace": "https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Alegre TV RD",
+        "enlace": "https://streamunoapp.com:3149/live/alegretvlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Altanto TV",
+        "enlace": "https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Ame 47",
+        "enlace": "https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Bani Vision",
+        "enlace": "https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Bonches Latinos TV",
+        "enlace": "https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Boreal",
+        "enlace": "https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "CNT Mas TV",
+        "enlace": "https://edge.essastream.com/cntmas/tracks-v1a1/mono.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "COCO TV",
+        "enlace": "https://edge.essastream.com/canalcocotv/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "CV Vision TV",
+        "enlace": "https://eu1.servers10.com:8081/8128/index.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Cana TV Digital",
+        "enlace": "https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Canal 17 RTVD",
+        "enlace": "https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Canal 4 RD",
+        "enlace": "https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Canal 56",
+        "enlace": "https://vdopanel.jlahozconsulting.com/p/3124/hybrid/play.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Canal Catorce",
+        "enlace": "https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Canal DTV",
+        "enlace": "https://s.emisoras.tv:8081/dtv/index.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Canal Multivision",
+        "enlace": "https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Canal del Sol",
+        "enlace": "https://stream.canaldelsol.com/sol26/live_1080.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Canalda 26 HD",
+        "enlace": "https://canalda.rgradio.net:3084/live/canaldalive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Cananga TV",
+        "enlace": "https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Caoba TV Radio",
+        "enlace": "https://host.streamingnation.live:3940/live/caobatvlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Cascara TV",
+        "enlace": "https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Cenovision HD",
+        "enlace": "https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Chinola TV",
+        "enlace": "https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Cibaena TV",
+        "enlace": "https://streamunoapp.com:3958/live/cibaenatvlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Cielo TV",
+        "enlace": "https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Cinevision Canal 19",
+        "enlace": "https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Citrico TV",
+        "enlace": "https://edge.essastream.com/citricotv/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Claro Television Dominicana",
+        "enlace": "https://streamunoapp.com:3960/live/claroteledomlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Claro Vision TV",
+        "enlace": "https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Codigo TV",
+        "enlace": "https://edge.essastream.com/codigotv/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Colome TV",
+        "enlace": "https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Cotubanama TV",
+        "enlace": "https://host.streamingnation.live/p/3588/hybrid/play.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "De Ultimo Minuto TV",
+        "enlace": "https://soportedvb.click:3620/live/deultimominutomedialive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Del Pueblo TV",
+        "enlace": "https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Digital 15",
+        "enlace": "https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Digital Vision 63",
+        "enlace": "https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Digital809 TV",
+        "enlace": "https://stream.inliveserver.com:19360/8146/8146.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Ecos Canal 57",
+        "enlace": "https://2-fss-2.streamhoster.com/pl_138/206532-6829872-1/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Ecovision",
+        "enlace": "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "El Pituco TV",
+        "enlace": "https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "El Puerto TV",
+        "enlace": "https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "El Seis 6",
+        "enlace": "https://stream.elseis.do/canal6/live_1080.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Elias Pina TV",
+        "enlace": "https://cloud2.streaminglivehd.com:1936/8078/8078/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Enntivision",
+        "enlace": "https://edge.essastream.com/enntivision/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Enterate RD",
+        "enlace": "https://5790d294af2dc.streamlock.net/enteraterd/enteraterd/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Entuno TV",
+        "enlace": "https://soportedvb.click:3442/live/entunotvlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Extra 86 TV",
+        "enlace": "https://samson.streamerr.co:8081/xtelevisionrd/tracks-v1a1/mono.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "FRATA TV",
+        "enlace": "https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Farovision",
+        "enlace": "https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Fuego TV",
+        "enlace": "https://streamunoapp.com:3553/live/cromtvlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "GalaxiATeVe",
+        "enlace": "https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Gi Television",
+        "enlace": "https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Global TV",
+        "enlace": "https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Guaymate TV",
+        "enlace": "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Haina Vision",
+        "enlace": "https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Hilando Fino TV",
+        "enlace": "https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Imagen Universal TV",
+        "enlace": "https://imagenuniversaltv.net:3771/live/iutvlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Informe TV",
+        "enlace": "https://edge.essastream.com/informetv/tracks-v1a1/mono.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "JARABACOA TV",
+        "enlace": "https://streaming.jarabacoatv.com/Jarabacoa_tv/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "JPD TV",
+        "enlace": "https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Jimani TV",
+        "enlace": "https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Junior Technologia TV",
+        "enlace": "https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "LA MIA TV",
+        "enlace": "https://ss2.tvrdomi.com:1936/lamiatv/lamiatv/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "La Caleta TV",
+        "enlace": "https://edge.essastream.com/lacaletatv/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "La Descarga TV",
+        "enlace": "https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "La Hora TV",
+        "enlace": "https://edge.enhdtv.com/8206/index.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "La Reina TV",
+        "enlace": "https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "La Ruta TV",
+        "enlace": "https://streamunoapp.com:3983/live/larutatvlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "La Voz de Maria",
+        "enlace": "https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "La Voz del Tropico",
+        "enlace": "https://ss2.tvrdomi.com:1936/lavozdeltropico/lavozdeltropico/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Larivision TV",
+        "enlace": "https://live.larimartv.net/livelan/stream.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Latina TV Internacional",
+        "enlace": "https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Lena TV",
+        "enlace": "https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Linieros TV",
+        "enlace": "https://soportedvb.click:3017/live/linierostvlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Luna TV Canal 53",
+        "enlace": "https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Luz Divina TV",
+        "enlace": "https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "MI Turno TV",
+        "enlace": "https://video.udwn.net:19360/miturnotv/miturnotv.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Makao TV",
+        "enlace": "https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Manaclar Television",
+        "enlace": "https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Marka TV",
+        "enlace": "https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Mega Cine TV",
+        "enlace": "https://cnn.hostlagarto.com/megacinetv/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "MegaVision TV",
+        "enlace": "https://server2grupocam.com/megavision/MV/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Miavision TV",
+        "enlace": "https://edge.essastream.com/miavisiontv/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Microvision 10",
+        "enlace": "https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Montecristi Digital 8",
+        "enlace": "https://soportedvb.click:3400/live/montecristitvlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Musavision",
+        "enlace": "https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Naranja TV",
+        "enlace": "https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Navarrete Television",
+        "enlace": "https://cnn.hostlagarto.com/ntvnavarrete/index.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Nexxo TV",
+        "enlace": "https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "OEPM TV",
+        "enlace": "https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "ORBIT TV",
+        "enlace": "https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "OxiTV",
+        "enlace": "https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Palmar TV",
+        "enlace": "https://streamunoapp.com:3255/live/palmartvlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Portal Digital TV",
+        "enlace": "https://edge.essastream.com/portaldigital/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Punto TV Digital 40",
+        "enlace": "https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "R Television",
+        "enlace": "https://vdopanel.jlahozconsulting.com/p/3142/hybrid/play.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "R&E TV",
+        "enlace": "https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "RDN",
+        "enlace": "https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "RNN",
+        "enlace": "https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "RNN DOS",
+        "enlace": "https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Ready TV Canal 6",
+        "enlace": "https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Red Social Codi TV",
+        "enlace": "https://mp.panelchs.com:1936/8040/8040/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Reportero TV",
+        "enlace": "https://streamrd.cloud:5443/LiveApp/streams/J3E3REmLNBzirS9A10575071547538.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Rocavision TV",
+        "enlace": "https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Romana TV Canal 42",
+        "enlace": "https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "San Isidro TV",
+        "enlace": "https://5790d294af2dc.streamlock.net/expresooriental/expresooriental/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Santa Cruz TV",
+        "enlace": "https://host.streamingnation.live/p/3345/hybrid/play.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Santiago TV",
+        "enlace": "https://edge.essastream.com/telemilenio/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Senal Digital TV",
+        "enlace": "https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Siembra TV",
+        "enlace": "https://streamunoapp.com:3809/live/siembratvlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Simavision Canal 18",
+        "enlace": "https://soportedvb.click:3668/live/simavisiontvlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Sistesur Canal 49",
+        "enlace": "https://5790d294af2dc.streamlock.net/SISTESUR/SISTESUR/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Super Canal",
+        "enlace": "https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Super Digital TV",
+        "enlace": "https://stream.inliveserver.com:19360/8006/8006.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Super TV 55",
+        "enlace": "https://ss2.tvrdomi.com:1936/supertv55/supertv55/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Super7FM",
+        "enlace": "https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Supremateve",
+        "enlace": "https://ss2.tvrdomi.com:1936/supremateve/supremateve/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Sur TV",
+        "enlace": "https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "TDN Medios",
+        "enlace": "https://castv10.plugstreaming.com:19360/tdntv/tdntv.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "TELESIGLO",
+        "enlace": "https://cnn.hostlagarto.com/telesiglo/tracks-v1a1/mono.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "TV Cotui Canal 31",
+        "enlace": "https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "TV Exitos",
+        "enlace": "https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "TV Higuey Digital",
+        "enlace": "https://host.streamingnation.live/p/3467/live/tvhigueylive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "TV Luz",
+        "enlace": "https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "TV Montana Canal 10",
+        "enlace": "https://live20.bozztv.com/akamaissh101/ssh101/tvmontanahd/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "TV Plata",
+        "enlace": "https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "TVO",
+        "enlace": "https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "TVS",
+        "enlace": "https://imagenuniversaltv.net:3741/live/tvslive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Tele Dajabon TV",
+        "enlace": "https://tuvideoonline.com.ar:3599/live/tvdajabonlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Tele Dominicana TV",
+        "enlace": "https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Tele Ola 44",
+        "enlace": "https://teleola.ddns.net/hls/stream.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Tele Proyecto TV",
+        "enlace": "https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "TeleBendicion",
+        "enlace": "https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "TeleCibaoHD",
+        "enlace": "https://edge.essastream.com/telecibaotv/tracks-v1a1/mono.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Telecanal 12",
+        "enlace": "https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Telecentro",
+        "enlace": "https://live4.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Telecomercio TV",
+        "enlace": "https://streaming.grupomediosdelnorte.com:19360/telecomerciotv/telecomerciotv.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Telecontacto",
+        "enlace": "https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Telemax",
+        "enlace": "https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Telemetro TV",
+        "enlace": "https://streamunoapp.com:3366/live/telemetrolive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Telemicro",
+        "enlace": "https://live4.telemicro.com.do/live/telemicrocast_1080p/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Telenews TV",
+        "enlace": "https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Telesantodomingo",
+        "enlace": "https://vdopanel.jlahozconsulting.com:3769/live/santodomingolive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Teleuniverso",
+        "enlace": "https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Telever",
+        "enlace": "https://soportedvb.click:3413/live/televerlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Televida",
+        "enlace": "https://cnn.hostlagarto.com/televida/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Television del Este",
+        "enlace": "https://edge.essastream.com/televisiondeleste/tracks-v1a1/mono.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Tenarenses TV",
+        "enlace": "https://edge.essastream.com/tenarensestvrd/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Tiguerito TV",
+        "enlace": "https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Topical Moon RD",
+        "enlace": "https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/30.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Turismo RDTV",
+        "enlace": "https://streamunoapp.com:3086/live/telemileniolive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Valle Nuevo TV",
+        "enlace": "https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Vallevision",
+        "enlace": "https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Villa Altagracia TV",
+        "enlace": "https://stream.inliveserver.com:19360/8004/8004.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Vision NDV",
+        "enlace": "https://soportedvb.click:3891/live/visionndvlive.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Xtra Tv",
+        "enlace": "https://edge.essastream.com/xtratv/index.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Xtremo Channel",
+        "enlace": "https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Zinc Nombre TV",
+        "enlace": "https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "Zonavision TV",
+        "enlace": "https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8",
+        "icono": "🇩🇴"
+      },
+      {
+        "titulo": "entelevision",
+        "enlace": "https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8",
+        "icono": "🇩🇴"
+      }
+    ]
+  },
+  {
+    "categoria": "Ecuador",
+    "pais": "Ecuador",
+    "canales": [
+      {
+        "titulo": "America Estereo Guayaquil",
+        "enlace": "https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "America Estereo Ibarra",
+        "enlace": "https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "America Estereo Quito",
+        "enlace": "https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "America Estereo Tulcan",
+        "enlace": "https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Antena Uno Radiovideo",
+        "enlace": "https://tvdatta.com:3578/live/antenaunolive.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Asomavision",
+        "enlace": "https://asomatv.cloud-ip.cc/livestream/stream.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Austral TV",
+        "enlace": "https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Bacan Te Veo",
+        "enlace": "https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Capricho TV",
+        "enlace": "https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Ciracu TV",
+        "enlace": "https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Curiquingue TV",
+        "enlace": "https://video2.lhdserver.es/pjtv/live.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Ecotel TV",
+        "enlace": "https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Ecuador Comunicación",
+        "enlace": "https://eu1.servers10.com:8081/8298/index.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Ecuador TV",
+        "enlace": "https://samson.streamerr.co:8081/shogun/index.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Ecuavisa Guayaquil",
+        "enlace": "https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Ecuavisa Quito",
+        "enlace": "https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Educa TV",
+        "enlace": "https://avm.ecuamedia.net/educatv/live/playlist.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "El Sol Network TV",
+        "enlace": "https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "FM Mundo",
+        "enlace": "https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "IeanJesus Ecuador",
+        "enlace": "https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Infinita TV",
+        "enlace": "https://s2.tvdatta.com:3753/hybrid/play.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "La Nueva Radio TV 97.7",
+        "enlace": "https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "La Perla Radio TV",
+        "enlace": "https://eu1.servers10.com:8081/8068/index.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "LatacungaTV",
+        "enlace": "https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Loreto TV",
+        "enlace": "https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Majestad Television",
+        "enlace": "https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "MakroDigital Television",
+        "enlace": "https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Manavision",
+        "enlace": "https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Mel Radio TV",
+        "enlace": "https://eu1.servers10.com:8081/8334/index.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Metropoli Medios TV",
+        "enlace": "https://eu1.servers10.com:8081/8214/index.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Multicanal Catamayo",
+        "enlace": "https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Nuka TV",
+        "enlace": "https://cloudvideo.servers10.com:8081/8118/index.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Ondas Quevedenas TV",
+        "enlace": "https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Oromar TV",
+        "enlace": "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Plus TV",
+        "enlace": "https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Puruwa TV",
+        "enlace": "https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "RTRTV",
+        "enlace": "https://tv3ecuador.site/hls/stream/index.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "RTU",
+        "enlace": "https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "RTV",
+        "enlace": "https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Radio Bonita 106.7",
+        "enlace": "https://cloudvideo.servers10.com:8081/8154/index.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Radio Cuenca Estereo",
+        "enlace": "https://eu1.servers10.com:8081/8074/index.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Radio Monumental TV",
+        "enlace": "https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Red TVE Ventanas",
+        "enlace": "https://s2.tvdatta.com:3825/live/redtvelive.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Senal Positiva TV",
+        "enlace": "https://eu1.servers10.com:8081/8108/index.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Sono Onda TV",
+        "enlace": "https://live.obslivestream.com/sonoondatv/index.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "TV Cisne",
+        "enlace": "https://video2.lhdserver.es/tvcisne/live.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "TV Color Canal 36",
+        "enlace": "https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "TV Universal Ecuador",
+        "enlace": "https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Telemar",
+        "enlace": "https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Telerama",
+        "enlace": "https://play.once.net.ec/telerama/live.tv/538.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "UNIANDES TV",
+        "enlace": "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8",
+        "icono": "🇪🇨"
+      },
+      {
+        "titulo": "Vos y TV",
+        "enlace": "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8",
+        "icono": "🇪🇨"
+      }
+    ]
+  },
+  {
+    "categoria": "España",
+    "pais": "España",
+    "canales": [
+      {
+        "titulo": "12tv",
+        "enlace": "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "24 Horas Canarias",
+        "enlace": "https://ztnr.rtve.es/ztnr/5473142.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "24 Horas Catalunya",
+        "enlace": "https://ztnr.rtve.es/ztnr/4952053.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "28 kanala",
+        "enlace": "https://streaming.28kanala.eus/hls/z.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "3Cat Cameres del temps",
+        "enlace": "https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "3Cat El bunquer",
+        "enlace": "https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "3Cat Plats bruts",
+        "enlace": "https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "3CatInfo",
+        "enlace": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Activa TV",
+        "enlace": "https://streamtv.mediasector.es/hls/activatv/index.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Actualidad 360",
+        "enlace": "https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Alcarria TV",
+        "enlace": "https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Anime Vision",
+        "enlace": "https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Anime Vision Classics",
+        "enlace": "https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Arabi TV",
+        "enlace": "https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Aragon TV Internacional",
+        "enlace": "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "BBC Drama Spain",
+        "enlace": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "BCN Gospel TV",
+        "enlace": "https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "BabyTV Spain",
+        "enlace": "https://xykt-fix.github.io/iptv/streams/SP88/index.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Beyblade en Español",
+        "enlace": "https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Bon Dia TV",
+        "enlace": "https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "CMM TV",
+        "enlace": "https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Cadena Elite",
+        "enlace": "https://cloudvideo.servers10.com:8081/8004/index.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Canal 1 Mar Menor Torre Pacheco",
+        "enlace": "https://directo.tuwebtv.es/canal1.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Canal 10 Emporda",
+        "enlace": "https://ventdelnord.tv:8080/escala/directe.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Canal 2000",
+        "enlace": "https://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Canal 3 TV Biar",
+        "enlace": "https://avantstreaming.es/hls/canal3.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Canal 33 Madrid",
+        "enlace": "https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Canal 45",
+        "enlace": "https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Canal 7 TeleValencia",
+        "enlace": "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Canal Coin TV",
+        "enlace": "https://canalcoin.garjim.es/hls/directo.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Canal Donana",
+        "enlace": "https://secure5.todostreaming.es/live/division-alm.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Canal Extremadura Satelite",
+        "enlace": "https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Canal Malaga RTV",
+        "enlace": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Canal Parlamento",
+        "enlace": "https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Canal San Roque",
+        "enlace": "https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Canal Sierra de Cadiz",
+        "enlace": "https://s.emisoras.tv:8081/sierradecadiz/index.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Canal Sur 2",
+        "enlace": "https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Canal Sur Andalucia",
+        "enlace": "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Canal Sur Noticias",
+        "enlace": "https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Canal Taronja Comarques Centrals",
+        "enlace": "https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Canal Taronja Osona i Moianes",
+        "enlace": "https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Canal Terrassa",
+        "enlace": "https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Canal Terres de l'Ebre",
+        "enlace": "https://ingest1-video.streaming-pro.com/canalteABR/ctestream/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Cine Friki",
+        "enlace": "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Cine Western",
+        "enlace": "https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Ciudades del Ocio TV",
+        "enlace": "https://cloudvideo.servers10.com:8081/8024/index.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Clan Internacional",
+        "enlace": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Costa Noroeste TV",
+        "enlace": "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Crímenes Reales",
+        "enlace": "https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Diez TV Las Villas",
+        "enlace": "https://streaming.cloud.innovasur.es/mmj2/index.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Diez TV Ubeda",
+        "enlace": "https://streaming.cloud.innovasur.es/mmj/index.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Distrito TV",
+        "enlace": "https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Durangaldeko Telebista",
+        "enlace": "https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "ETB Events 1",
+        "enlace": "https://cdn1.etbon.eus/oc1/index.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "EWTN Espana",
+        "enlace": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "EWTN Spain & Latin America",
+        "enlace": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "El 33 Originals",
+        "enlace": "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "El Toro TV",
+        "enlace": "https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Emporda TV",
+        "enlace": "https://video3.lhdserver.es/empordatv2/live.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "EsTuTele",
+        "enlace": "https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "France 24 Español",
+        "enlace": "https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Fuerteventura TV",
+        "enlace": "https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Galicia TV Europa",
+        "enlace": "https://crtvg-europa.flumotion.cloud/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Goiena Eus",
+        "enlace": "https://zuzenean.goienamedia.eus/goiena-telebista.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Gol Classics",
+        "enlace": "https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Hamaika Telebista",
+        "enlace": "https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Historia",
+        "enlace": "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Ideas en 5 minutos",
+        "enlace": "https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Interalmeria TV",
+        "enlace": "https://interalmeria.tv/directo/live.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Lancelot TV",
+        "enlace": "https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "LiraTV",
+        "enlace": "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Los Gipsy Kings",
+        "enlace": "https://gipsy-kings-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6752/master.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "M95 Television Marbella",
+        "enlace": "https://limited2.todostreaming.es/live/m95-livestream.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Mijas 3.40TV",
+        "enlace": "https://streaming004.gestec-video.com/hls/MIJAS.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Molahits TV",
+        "enlace": "https://ventdelnord.tv:8080/mola/directe.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Mr. Bean Anime Spain",
+        "enlace": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Music TV Granada",
+        "enlace": "https://cloudvideo.servers10.com:8081/8032/index.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "MyTime Movie Network",
+        "enlace": "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Nature Time",
+        "enlace": "https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "NatureTime",
+        "enlace": "https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Negocios TV",
+        "enlace": "https://streaming013.gestec-video.com/hls/negociostv.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Nickelodeon",
+        "enlace": "https://xykt-fix.github.io/iptv/streams/SP57.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Onda 15 TV",
+        "enlace": "https://cloudvideo.servers10.com:8081/8034/index.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Onda Algeciras",
+        "enlace": "https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Onda Cadiz",
+        "enlace": "https://ondacadiztv.es:30443/octv/24h/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Onda Valencia TV",
+        "enlace": "https://cloudvideo.servers10.com:8081/8116/index.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "POP World TV",
+        "enlace": "https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Platzi TV",
+        "enlace": "https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Punt 3",
+        "enlace": "https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "RNE para todos",
+        "enlace": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "ROTV Valencia",
+        "enlace": "https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "RT en Espanol",
+        "enlace": "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "RTV Vida",
+        "enlace": "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Radio 3",
+        "enlace": "https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Radio Bocairent TV",
+        "enlace": "https://185.81.77.4/BocairentTV/index.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Radio Carnaval TV",
+        "enlace": "https://eu1.servers10.com:8081/8116/index.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Radio Television Marbella",
+        "enlace": "https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Rakuten TV Comedy Movies Spain",
+        "enlace": "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Rakuten TV Family Movies Spain",
+        "enlace": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Real Madrid TV",
+        "enlace": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Red Bull TV ES",
+        "enlace": "https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Ribera TV",
+        "enlace": "https://common01.todostreaming.es/live/ribera-livestream.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Sol Musica",
+        "enlace": "https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Solidaria TV",
+        "enlace": "https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "SpektraTV",
+        "enlace": "https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "TBN Espana",
+        "enlace": "https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "TOP Barça Spain",
+        "enlace": "https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "TV BRICS Spanish",
+        "enlace": "https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "TVE Star",
+        "enlace": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "TVO Jesus",
+        "enlace": "https://cloud.tvomix.com/TVOJESUS/index.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "TVOMIX",
+        "enlace": "https://cloud.tvomix.com/TVOMIX/index.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "TVReus",
+        "enlace": "https://eu1.servers10.com:8081/8166/index.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Taroteame",
+        "enlace": "https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Tele 7",
+        "enlace": "https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Tele Safor",
+        "enlace": "https://video.telesafor.com/hls/video.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Teleganes",
+        "enlace": "https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Television Canaria",
+        "enlace": "https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Television Consciente",
+        "enlace": "https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Tito TV",
+        "enlace": "https://cloud.tvomix.com/TITOTV/index.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Todo Novelas",
+        "enlace": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Trece",
+        "enlace": "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Univers TV",
+        "enlace": "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Urola Telebista",
+        "enlace": "https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "VOTV",
+        "enlace": "https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Ventdelnord TV",
+        "enlace": "https://ventdelnord.tv:8080/hls/directe.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "Vevo Pop Spain",
+        "enlace": "https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "XPTV US",
+        "enlace": "https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "XPTV1",
+        "enlace": "https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8",
+        "icono": "🇪🇸"
+      },
+      {
+        "titulo": "XPTV2",
+        "enlace": "https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8",
+        "icono": "🇪🇸"
+      }
+    ]
+  },
+  {
+    "categoria": "Honduras",
+    "pais": "Honduras",
+    "canales": [
+      {
+        "titulo": "Alsacias Television",
+        "enlace": "https://s.emisoras.tv:8081/atv/index.m3u8",
+        "icono": "🇭🇳"
+      },
+      {
+        "titulo": "CHTV",
+        "enlace": "https://viewhn.com/chtv/live/playlist.m3u8",
+        "icono": "🇭🇳"
+      },
+      {
+        "titulo": "Campus TV",
+        "enlace": "https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8",
+        "icono": "🇭🇳"
+      },
+      {
+        "titulo": "Choluteca TV",
+        "enlace": "https://s.emisoras.tv:8081/cholutecatv/index.m3u8",
+        "icono": "🇭🇳"
+      },
+      {
+        "titulo": "Dios Te Ve",
+        "enlace": "https://s.emisoras.tv:8081/diostevetv/index.m3u8",
+        "icono": "🇭🇳"
+      },
+      {
+        "titulo": "Dios Te Ve Kids",
+        "enlace": "https://s.emisoras.tv:8081/diostevekids/index.m3u8",
+        "icono": "🇭🇳"
+      },
+      {
+        "titulo": "Dios Tv Talanga",
+        "enlace": "https://tv.webmedialive.com/unciontv/live/playlist.m3u8",
+        "icono": "🇭🇳"
+      },
+      {
+        "titulo": "EDN TV",
+        "enlace": "https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8",
+        "icono": "🇭🇳"
+      },
+      {
+        "titulo": "Ebenezer TV",
+        "enlace": "https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8",
+        "icono": "🇭🇳"
+      },
+      {
+        "titulo": "Girasol TV",
+        "enlace": "https://s.emisoras.tv:8081/girasoltv/index.m3u8",
+        "icono": "🇭🇳"
+      },
+      {
+        "titulo": "HCH",
+        "enlace": "https://live.streamhch.com/live/streams/hch1.m3u8",
+        "icono": "🇭🇳"
+      },
+      {
+        "titulo": "Imagen FM 105.1",
+        "enlace": "https://streaming.imagenfm105-1.com/hls/stream.m3u8",
+        "icono": "🇭🇳"
+      },
+      {
+        "titulo": "Kerusso TV",
+        "enlace": "https://s.emisoras.tv:8081/kerussotv/index.m3u8",
+        "icono": "🇭🇳"
+      },
+      {
+        "titulo": "La Top 102.9",
+        "enlace": "https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8",
+        "icono": "🇭🇳"
+      },
+      {
+        "titulo": "La Top 107.7",
+        "enlace": "https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8",
+        "icono": "🇭🇳"
+      },
+      {
+        "titulo": "Lenca TV",
+        "enlace": "https://lencatelevision.com/hls/stream.m3u8",
+        "icono": "🇭🇳"
+      },
+      {
+        "titulo": "Metro TV",
+        "enlace": "https://s.emisoras.tv:8081/metrotv/index.m3u8",
+        "icono": "🇭🇳"
+      },
+      {
+        "titulo": "RCV TV",
+        "enlace": "https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8",
+        "icono": "🇭🇳"
+      },
+      {
+        "titulo": "RSV Honduras",
+        "enlace": "https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8",
+        "icono": "🇭🇳"
+      },
+      {
+        "titulo": "Radio Ideal",
+        "enlace": "https://www.idealfm104-7.com/hls/0/stream.m3u8",
+        "icono": "🇭🇳"
+      },
+      {
+        "titulo": "Sula TV",
+        "enlace": "https://tv.webmedialive.com/sulatv/live/playlist.m3u8",
+        "icono": "🇭🇳"
+      },
+      {
+        "titulo": "TV Centro 27.2 HD",
+        "enlace": "https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8",
+        "icono": "🇭🇳"
+      },
+      {
+        "titulo": "TV Centro HD",
+        "enlace": "https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8",
+        "icono": "🇭🇳"
+      },
+      {
+        "titulo": "TV Copan",
+        "enlace": "https://s.emisoras.tv:8081/tvcopan/index.m3u8",
+        "icono": "🇭🇳"
+      },
+      {
+        "titulo": "Teleceiba",
+        "enlace": "https://teleceiba.com/stream/tlcb720.m3u8",
+        "icono": "🇭🇳"
+      },
+      {
+        "titulo": "Telerayo",
+        "enlace": "https://s.emisoras.tv:8081/telerayo/index.m3u8",
+        "icono": "🇭🇳"
+      },
+      {
+        "titulo": "Television Metropolis 19.1",
+        "enlace": "https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8",
+        "icono": "🇭🇳"
+      },
+      {
+        "titulo": "Television Metropolis 19.2",
+        "enlace": "https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8",
+        "icono": "🇭🇳"
+      }
+    ]
+  },
+  {
+    "categoria": "Nicaragua",
+    "pais": "Nicaragua",
+    "canales": [
+      {
+        "titulo": "Escuchame Radio TV",
+        "enlace": "https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8",
+        "icono": "🇳🇮"
+      },
+      {
+        "titulo": "Olam Metro TV",
+        "enlace": "https://netzerstreaming.com:4433/hls/olammetro/index.m3u8",
+        "icono": "🇳🇮"
+      },
+      {
+        "titulo": "WTV Canal 20",
+        "enlace": "https://cloudvideo.servers10.com:8081/8130/index.m3u8",
+        "icono": "🇳🇮"
+      }
+    ]
+  },
+  {
+    "categoria": "Panamá",
+    "pais": "Panamá",
+    "canales": [
+      {
+        "titulo": "Fabulosa Estereo 100.5 FM",
+        "enlace": "https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8",
+        "icono": "🇵🇦"
+      },
+      {
+        "titulo": "Hosanna Vision",
+        "enlace": "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8",
+        "icono": "🇵🇦"
+      },
+      {
+        "titulo": "Planet 100.9 FM",
+        "enlace": "https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8",
+        "icono": "🇵🇦"
+      },
+      {
+        "titulo": "Radio Ancon",
+        "enlace": "https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8",
+        "icono": "🇵🇦"
+      },
+      {
+        "titulo": "Super Q Panama",
+        "enlace": "https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8",
+        "icono": "🇵🇦"
+      },
+      {
+        "titulo": "Tropi Q 99.7 FM",
+        "enlace": "https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8",
+        "icono": "🇵🇦"
+      }
+    ]
+  },
+  {
+    "categoria": "Perú",
+    "pais": "Perú",
+    "canales": [
+      {
+        "titulo": "Antares Television",
+        "enlace": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Antena SUR",
+        "enlace": "https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "AsiriTV",
+        "enlace": "https://video2.lhdserver.es/asiritv/live.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Autentica Television",
+        "enlace": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "BHTV",
+        "enlace": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Bethel TV",
+        "enlace": "https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "CR Television",
+        "enlace": "https://live.obslivestream.com/crtvmux/index.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Cadena TV",
+        "enlace": "https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Canal 21 Huancayo",
+        "enlace": "https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Canal 8 Catacaos",
+        "enlace": "https://live.obslivestream.com/canal8/index.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Conecta2TV",
+        "enlace": "https://live.obslivestream.com/conecta2/index.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Controversia TV",
+        "enlace": "https://live.obslivestream.com/controversiatv/index.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "ECO Television",
+        "enlace": "https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Exitosa TV",
+        "enlace": "https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Impacto Television",
+        "enlace": "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Intuitiva TV",
+        "enlace": "https://video2.lhdserver.es/cableperu/live.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "JN 19",
+        "enlace": "https://servilive.com:3028/live/jntv19live.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "La Fabulosa TV",
+        "enlace": "https://eu1.servers10.com:8081/8004/index.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "MO Channel",
+        "enlace": "https://cloudvideo.servers10.com:8081/8070/index.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Mega TV Jaen",
+        "enlace": "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Miel TV",
+        "enlace": "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Nativa TV Satipo",
+        "enlace": "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "ONDA DIGITAL",
+        "enlace": "https://tv.ondadigital.pe/ondadigital/index.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Ovacion TV",
+        "enlace": "https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "RN Television",
+        "enlace": "https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "RPP TV",
+        "enlace": "https://cdn-ssai.smartbit.co/rpp/index.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "RSelvaTV",
+        "enlace": "https://live.obslivestream.com/selvatv/index.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Radio Master",
+        "enlace": "https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Radio Tropical",
+        "enlace": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "RadioTV Oriente",
+        "enlace": "https://live.obslivestream.com/tvoriente/index.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Senal Peru TV",
+        "enlace": "https://livestream.perucast.com/hls/stream.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "SolTV",
+        "enlace": "https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "TVUNO",
+        "enlace": "https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Telecolor Yurimaguas",
+        "enlace": "https://live.obslivestream.com/telecolormux/index.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Teleselva",
+        "enlace": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Top TV",
+        "enlace": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Trivu",
+        "enlace": "https://www.chasquirouter.com/salida/sd/trivu.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Turbo Mix Radio TV",
+        "enlace": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Unife TV",
+        "enlace": "https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Uranio TV",
+        "enlace": "https://live.obslivestream.com/uraniotv/index.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "VNP",
+        "enlace": "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Via Altomayo",
+        "enlace": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Via Television",
+        "enlace": "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8",
+        "icono": "🇵🇪"
+      },
+      {
+        "titulo": "Viva TV Yurimaguas",
+        "enlace": "https://live.obslivestream.com/vivatv/index.m3u8",
+        "icono": "🇵🇪"
+      }
+    ]
+  },
+  {
+    "categoria": "Puerto Rico",
+    "pais": "Puerto Rico",
+    "canales": [
+      {
+        "titulo": "America TeVe",
+        "enlace": "https://live.gideo.video/americateve2/master.m3u8",
+        "icono": "🇵🇷"
+      },
+      {
+        "titulo": "CAtv",
+        "enlace": "https://video2.getstreamhosting.com:19360/8216/8216.m3u8",
+        "icono": "🇵🇷"
+      },
+      {
+        "titulo": "CDM Internacional",
+        "enlace": "https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8",
+        "icono": "🇵🇷"
+      },
+      {
+        "titulo": "Candelita TV",
+        "enlace": "https://6110f70ea8d0e.streamlock.net/1689/1689/playlist.m3u8",
+        "icono": "🇵🇷"
+      },
+      {
+        "titulo": "DNJ TV",
+        "enlace": "https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8",
+        "icono": "🇵🇷"
+      },
+      {
+        "titulo": "DeFiance Media",
+        "enlace": "https://amg01529-amg01529c2-stirr-us-7789.playouts.now.amagi.tv/playlist.m3u8",
+        "icono": "🇵🇷"
+      },
+      {
+        "titulo": "EBN Television",
+        "enlace": "https://627bb251f23c7.streamlock.net:444/EBNTELEVISION/EBNTELEVISION/playlist.m3u8",
+        "icono": "🇵🇷"
+      },
+      {
+        "titulo": "Familia Vision HD",
+        "enlace": "https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8",
+        "icono": "🇵🇷"
+      },
+      {
+        "titulo": "Faro de Santidad TV",
+        "enlace": "https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8",
+        "icono": "🇵🇷"
+      },
+      {
+        "titulo": "La-X",
+        "enlace": "https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8",
+        "icono": "🇵🇷"
+      },
+      {
+        "titulo": "Nueva Vida FM",
+        "enlace": "https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8",
+        "icono": "🇵🇷"
+      },
+      {
+        "titulo": "Paraiso TV",
+        "enlace": "https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8",
+        "icono": "🇵🇷"
+      },
+      {
+        "titulo": "Pura Palabra",
+        "enlace": "https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8",
+        "icono": "🇵🇷"
+      },
+      {
+        "titulo": "Radio Isla TV",
+        "enlace": "https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8",
+        "icono": "🇵🇷"
+      },
+      {
+        "titulo": "Salvacion TV",
+        "enlace": "https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8",
+        "icono": "🇵🇷"
+      },
+      {
+        "titulo": "TeleOnce",
+        "enlace": "https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8",
+        "icono": "🇵🇷"
+      },
+      {
+        "titulo": "Telenorte",
+        "enlace": "https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8",
+        "icono": "🇵🇷"
+      },
+      {
+        "titulo": "WDWL 58.1",
+        "enlace": "https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8",
+        "icono": "🇵🇷"
+      },
+      {
+        "titulo": "WELU 8.1",
+        "enlace": "https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8",
+        "icono": "🇵🇷"
+      },
+      {
+        "titulo": "WIPR-TV 6.1",
+        "enlace": "https://streamwipr.pr/hls/stream/index.m3u8",
+        "icono": "🇵🇷"
+      },
+      {
+        "titulo": "WKAQ-TV 2.1",
+        "enlace": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
+        "icono": "🇵🇷"
+      },
+      {
+        "titulo": "WKAQ-TV 2.2",
+        "enlace": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8",
+        "icono": "🇵🇷"
+      },
+      {
+        "titulo": "WRUA-DT1",
+        "enlace": "https://link.frontlayer.com/services/hls2/fl496518/index.m3u8",
+        "icono": "🇵🇷"
+      },
+      {
+        "titulo": "WWXY-DT1",
+        "enlace": "https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8",
+        "icono": "🇵🇷"
+      },
+      {
+        "titulo": "WWXY-DT3",
+        "enlace": "https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8",
+        "icono": "🇵🇷"
+      },
+      {
+        "titulo": "WXWZ-LD 23.1",
+        "enlace": "https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8",
+        "icono": "🇵🇷"
+      },
+      {
+        "titulo": "X Level Media",
+        "enlace": "https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8",
+        "icono": "🇵🇷"
+      }
+    ]
+  },
+  {
+    "categoria": "Paraguay",
+    "pais": "Paraguay",
+    "canales": [
+      {
+        "titulo": "Almaya TV",
+        "enlace": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "Bruno Masi TV",
+        "enlace": "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "Canal 5 TV Max",
+        "enlace": "https://video.wilohosting.com:19360/tvmax/tvmax.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "Canal 8 C&C Producciones",
+        "enlace": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "Canal 8 Vision TV",
+        "enlace": "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "Canal Pro",
+        "enlace": "https://www.desde-paraguay.com/pro.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "Caritas TV",
+        "enlace": "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "Cosmos TV",
+        "enlace": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "Del Rey TV",
+        "enlace": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "En Lengua de Senas TV",
+        "enlace": "https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "Farra Play",
+        "enlace": "https://159.203.148.226/live/farra.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "GO TV",
+        "enlace": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "Gen",
+        "enlace": "https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?admin=nacion",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "HEi Now",
+        "enlace": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "Mega TV",
+        "enlace": "https://www.desde-paraguay.com/mega.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "MiTV",
+        "enlace": "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "Nande Portetepe TV",
+        "enlace": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "Nanduti",
+        "enlace": "https://copacogen.desdeparaguay.net/nandutitv/nandutitv_baja/index.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "Obedira TV",
+        "enlace": "https://video.hostingcaaguazu.com:19360/obediratv/obediratv.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "Occidental TV",
+        "enlace": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "Paraguay TV",
+        "enlace": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "Popu TV",
+        "enlace": "https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "RCC TV",
+        "enlace": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "Radio Nacional del Paraguay",
+        "enlace": "https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "Radio San Cristobal 88.7 FM",
+        "enlace": "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "Radio TV El Arca del Pacto",
+        "enlace": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "Red Digital",
+        "enlace": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "Red Interior TV",
+        "enlace": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "Regional TV Yaguaron",
+        "enlace": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "Suceso TV",
+        "enlace": "https://live.enhdtv.com:8081/8060/index.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "TV Aire",
+        "enlace": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "TV Canindeyu",
+        "enlace": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "UniRadio TV",
+        "enlace": "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8",
+        "icono": "🇵🇾"
+      },
+      {
+        "titulo": "Villa Elisa Radio TV",
+        "enlace": "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion",
+        "icono": "🇵🇾"
+      }
+    ]
+  },
+  {
+    "categoria": "El Salvador",
+    "pais": "El Salvador",
+    "canales": [
+      {
+        "titulo": "Agape TV",
+        "enlace": "https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8",
+        "icono": "🇸🇻"
+      },
+      {
+        "titulo": "Arbol de Vida TV",
+        "enlace": "https://yupistream.top:19360/livearbol/livearbol.m3u8",
+        "icono": "🇸🇻"
+      },
+      {
+        "titulo": "Canal 11 TuTV",
+        "enlace": "https://stream.giostreaming.app/canal11/canal11.m3u8",
+        "icono": "🇸🇻"
+      },
+      {
+        "titulo": "Canal 15 El Zamorano",
+        "enlace": "https://vdo.tecnoservix.stream:3007/live/canal15zamoranolive.m3u8",
+        "icono": "🇸🇻"
+      },
+      {
+        "titulo": "Canal 26 TV IAP",
+        "enlace": "https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8",
+        "icono": "🇸🇻"
+      },
+      {
+        "titulo": "Canal 3 Impresionante",
+        "enlace": "https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8",
+        "icono": "🇸🇻"
+      },
+      {
+        "titulo": "El Camino TV",
+        "enlace": "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8",
+        "icono": "🇸🇻"
+      },
+      {
+        "titulo": "Josue TV",
+        "enlace": "https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8",
+        "icono": "🇸🇻"
+      },
+      {
+        "titulo": "Legislative Assembly of El Salvador",
+        "enlace": "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8",
+        "icono": "🇸🇻"
+      },
+      {
+        "titulo": "Megavision Canal 19",
+        "enlace": "https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8",
+        "icono": "🇸🇻"
+      },
+      {
+        "titulo": "Megavision Canal 21",
+        "enlace": "https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8",
+        "icono": "🇸🇻"
+      },
+      {
+        "titulo": "RTV Canal 57",
+        "enlace": "https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8",
+        "icono": "🇸🇻"
+      },
+      {
+        "titulo": "TV CRET",
+        "enlace": "https://radiocret.net:8082/hls/tvcret.m3u8",
+        "icono": "🇸🇻"
+      },
+      {
+        "titulo": "TV Getsemani",
+        "enlace": "https://serversv.com:8080/hls/tvgetsemani.m3u8",
+        "icono": "🇸🇻"
+      },
+      {
+        "titulo": "TV Leon de Juda",
+        "enlace": "https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8",
+        "icono": "🇸🇻"
+      },
+      {
+        "titulo": "TaberTV",
+        "enlace": "https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8",
+        "icono": "🇸🇻"
+      },
+      {
+        "titulo": "WOW TV",
+        "enlace": "https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8",
+        "icono": "🇸🇻"
+      }
+    ]
+  },
+  {
+    "categoria": "Venezuela",
+    "pais": "Venezuela",
+    "canales": [
+      {
+        "titulo": "AS3 Sport TV",
+        "enlace": "https://streamtv.as3sport.online:3394/hybrid/play.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "Aguacate TV",
+        "enlace": "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "BTA TV",
+        "enlace": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "Canal 21 Tachira",
+        "enlace": "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "Catatumbo TV",
+        "enlace": "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "Guaro TV",
+        "enlace": "https://streamtv.intervenhosting.net:3592/hybrid/play.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "Inter TV",
+        "enlace": "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "Isla TV",
+        "enlace": "https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "KandelaTV",
+        "enlace": "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "LGD Television",
+        "enlace": "https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "Latina TV",
+        "enlace": "https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "Mas Talk",
+        "enlace": "https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "Nortena Tv",
+        "enlace": "https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "Plous TV",
+        "enlace": "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "PromarTV",
+        "enlace": "https://vcp.myplaytv.com/promar/promar/playlist.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "Reforma TV",
+        "enlace": "https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "Siembra TV",
+        "enlace": "https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "Somos TV",
+        "enlace": "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "TNO Radio",
+        "enlace": "https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "TRT",
+        "enlace": "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "TVM para ti",
+        "enlace": "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "Telecolor",
+        "enlace": "https://cloud.livescast.com:19360/telecolor/telecolor.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "Telesur",
+        "enlace": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "Telesur English",
+        "enlace": "https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "Televisora de Oriente",
+        "enlace": "https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "Torococo TV",
+        "enlace": "https://us.streaminghd.cl/torococotelevision/video.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "UN24",
+        "enlace": "https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "UniTV",
+        "enlace": "https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "Vale TV",
+        "enlace": "https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "Venevision Internacional",
+        "enlace": "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8",
+        "icono": "🇻🇪"
+      },
+      {
+        "titulo": "Vepaco TV",
+        "enlace": "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8",
+        "icono": "🇻🇪"
+      }
+    ]
+  },
+  {
+    "categoria": "Uruguay",
+    "pais": "Uruguay",
+    "canales": [
+      {
+        "titulo": "VIVO TV",
+        "enlace": "https://stream.vivotv.uy/hls/stream.m3u8",
+        "icono": "🇺🇾"
       }
     ]
   }
