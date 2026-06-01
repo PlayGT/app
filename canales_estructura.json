@@ -5,7 +5,7 @@
     "canales": [
       {
         "titulo": "8NTV",
-        "enlace": "https://playvi.click/deportesplus2.php",
+        "enlace": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",
         "icono": "🇲🇽"
       },
       {
@@ -5022,6 +5022,442 @@
         "titulo": "ge Fast",
         "enlace": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8",
         "icono": "🇧🇷"
+      }
+    ]
+  },
+  {
+    "categoria": "Música",
+    "pais": "Internacional",
+    "canales": [
+      {
+        "titulo": "Amordiscos TV",
+        "enlace": "https://amordiscosretrotv.moxapps.shop/live/cdYgaZmmh2VPhscWTxBp1kd9Egb2/index.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Buenisima Radio TV",
+        "enlace": "https://stream.mediaserver.com.co:8088/live/buenisimatv.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Cadena Elite",
+        "enlace": "https://cloudvideo.servers10.com:8081/8004/index.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Canal 38",
+        "enlace": "https://rtmp.info/canal38/envivo/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Canal VM Latino",
+        "enlace": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Cantina TV",
+        "enlace": "https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Carolina TV",
+        "enlace": "https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Carolina TV 2",
+        "enlace": "https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Chile Remix",
+        "enlace": "https://vdochile.com:3803/live/ckdj2live.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Conecta TV",
+        "enlace": "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Corazon Llanero",
+        "enlace": "https://vcp11.myplaytv.com/coll/coll/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Cumbia TV",
+        "enlace": "https://sistemastr.tropicalmoonmedia.com:443/live/D68FF3D942FDBED1303B0567B5C75E3D/6.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Dance Floor TV",
+        "enlace": "https://srv3.zcast.com.br/andre3354/andre3354/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "El Sol Network TV",
+        "enlace": "https://server40.servistreaming.com:3031/live/elsolnetworklive.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Eternal Metal",
+        "enlace": "https://vdo1.panelstreaming.live:3350/hybrid/play.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Euro Indie Music",
+        "enlace": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Fabulosa FM",
+        "enlace": "http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Flash - Freetv.com",
+        "enlace": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Hits 360",
+        "enlace": "http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Ibiza Global TV",
+        "enlace": "https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Italianissimo",
+        "enlace": "https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Kpop TV",
+        "enlace": "https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "La Chilena TV",
+        "enlace": "https://vdochile.com:3134/hybrid/play.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Latin Zone TV",
+        "enlace": "https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Latinos TV",
+        "enlace": "https://v4.tustreaming.cl/latinostv/index.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Los Heat TV",
+        "enlace": "https://mdstrm.com/video/631f6f0fe4eba7082bc551ad.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "M Music TV",
+        "enlace": "https://cloudpro.servidoresdestream.com:8081/8036/index.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "MCRT 80s",
+        "enlace": "https://stmv.negotv.com/80s2021/80s2021/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "MCRT Banda",
+        "enlace": "https://stmv.negotv.com/bandamx/bandamx/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "MCRT Cristiana",
+        "enlace": "https://stmv.negotv.com/religion2021/religion2021/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "MCRT En Español",
+        "enlace": "https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "MCRT GYM",
+        "enlace": "https://stmv.negotv.com/gym2021/gym2021/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "MCRT Reggaeton",
+        "enlace": "https://stmv.negotv.com/regueton2021/regueton2021/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "MCRT Top Hits",
+        "enlace": "https://stmv.negotv.com/top2021/top2021/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "MMC - Freetv.com",
+        "enlace": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Maxima FM",
+        "enlace": "https://live.tvcontrolcp.com:1936/maximafmchilenuevo/maximafmchilenuevo/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Molahits TV",
+        "enlace": "http://ventdelnord.tv:8080/mola/directe.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Mundo de la Musica TV",
+        "enlace": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Music PUQ",
+        "enlace": "https://vdochile.com:3131/live/redupxprlive.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Music Top",
+        "enlace": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Nubeh TV",
+        "enlace": "https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Oldies Hits TV",
+        "enlace": "https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Oxigeno Network",
+        "enlace": "https://vcp.myplaytv.com/oxigeno/oxigeno/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "PANC TV",
+        "enlace": "https://panel.host-live.com:19360/20004/20004.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Parentesis TV",
+        "enlace": "https://freya.mivideo.pro/parentesistv/index.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Planeta TV",
+        "enlace": "https://live.obslivestream.com/planetatv/index.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "PlanetaTV",
+        "enlace": "https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Portal FoxMix",
+        "enlace": "https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Radio Video Mix",
+        "enlace": "https://radioxxx.ddns.net/hls/stream.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Realtor TV",
+        "enlace": "https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Recuerdos Retro Radio TV",
+        "enlace": "https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Red Circle",
+        "enlace": "https://5e3483cba9114.streamlock.net:443/8016/8016/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Retro Music Television",
+        "enlace": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Retro Plus TV",
+        "enlace": "https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Retro Plus TV Señal 2",
+        "enlace": "https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Retroclub",
+        "enlace": "https://video08.logicahost.com.br/retroclub/retroclub/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Ritmo Top Latino",
+        "enlace": "https://5ff3d9babae13.streamlock.net/vzzfdajnnf/vzzfdajnnf/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Ruidos FM",
+        "enlace": "https://tv1.ruidosfm.cl/ruidosfm/stream.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Ruidos TV",
+        "enlace": "https://tv1.ruidosfm.cl/ruidostv/stream.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Salsa TV",
+        "enlace": "https://sistemastr.tropicalmoonmedia.com:443/live/D68FF3D942FDBED1303B0567B5C75E3D/1.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "ShowVen TV",
+        "enlace": "https://vcp1.myplaytv.com/coll/coll/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Solobailalo TV",
+        "enlace": "https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Sonido Sur",
+        "enlace": "https://tv.streamcasthd.com:3553/live/sonidosurtvlive.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Soy Plancha TV",
+        "enlace": "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "TOP Latino TV",
+        "enlace": "https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/playlist.m3u8?wowzatokenstarttime=1752707094&wowzatokenendtime=1752708094&wowzatokenhash=ehhxNAzcNA0F16D7rrGOSaTgY2M5_O38gPj7Ir3Lx2U=&PlaylistM3UCL",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "TV Exitos",
+        "enlace": "https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "TV vconline.cl",
+        "enlace": "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Tele Clasicos",
+        "enlace": "https://tvdatta.com:3574/hybrid/play.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "TeleZeta Tropical",
+        "enlace": "https://stream.telezeta.cl/live/index.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Telemusica",
+        "enlace": "https://telemusicahit.moxapps.shop/live/bu1rJpIiHrcRa4T1e972hnMExiw1/index.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "The Retro Channel",
+        "enlace": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Top New Radio",
+        "enlace": "https://5ff3d9babae13.streamlock.net:443/dxwdsmgesp/dxwdsmgesp/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Top TV",
+        "enlace": "https://isaocorp.cloudecast.com/toptv/index.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Tu Musica HD",
+        "enlace": "https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Turbo Mix TV",
+        "enlace": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Urban Pro DJ",
+        "enlace": "https://vdochile.com:3115/hybrid/play.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Urban TV",
+        "enlace": "https://urbanrevolution.es:8443/live/TV/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Urban TV",
+        "enlace": "https://sistemastr.tropicalmoonmedia.com:443/live/D68FF3D942FDBED1303B0567B5C75E3D/4.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Urbano Public",
+        "enlace": "https://sistemastr.tropicalmoonmedia.com:443/live/D68FF3D942FDBED1303B0567B5C75E3D/23.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Urbano TV",
+        "enlace": "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "VClassicTV",
+        "enlace": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "VClassicTV Tropical",
+        "enlace": "https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Video Tour Channel",
+        "enlace": "http://k4.usastreams.com/videotour/videotour/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Vintage Music",
+        "enlace": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Vision Musica TV",
+        "enlace": "https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8",
+        "icono": "🎵"
+      },
+      {
+        "titulo": "Voice Over Radio TV",
+        "enlace": "https://cloudvideo.servers10.com:8081/8198/rewind-3600.m3u8?DVR&PlaylistM3UCL",
+        "icono": "🎵"
       }
     ]
   }
