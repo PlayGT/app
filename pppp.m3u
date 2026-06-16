@@ -1,4 +1,0 @@
-#EXTM3U
-#EXTINF:-1,Premiere 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WNJU)/master.mpd|drmScheme=clearkey&drmLicense=c71fe7bc82f037c6af21fd299d6341b0:13223c98886ff43d3c5f271eeb457cc6
