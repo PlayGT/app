@@ -1,5 +1,91 @@
 [
   {
+    "categoria": "Deportes",
+    "pais": "Mundial 2026",
+    "canales": [
+      {
+        "titulo": "Dsports",
+        "enlace": "https://sudamericaplay2.com/canal_8112/1dzportsplus.html",
+        "icono": "⚽"
+      },
+      {
+        "titulo": "Telemundo",
+        "enlace": "https://streamtpday1.xyz/global2.php?stream=telemundousa",
+        "icono": "⚽"
+      },
+      {
+        "titulo": "Caracol TV",
+        "enlace": "https://sudamericaplay2.com/canal_41/caracoltv.php",
+        "icono": "⚽"
+      },
+      {
+        "titulo": "RCN TV",
+        "enlace": "https://sudamericaplay2.com/canal_8112/rcn51.html",
+        "icono": "⚽"
+      },
+      {
+        "titulo": "Vix+",
+        "enlace": "https://sudamericaplay2.com/canal_8112/vix123.html",
+        "icono": "⚽"
+      },
+      {
+        "titulo": "TUDN",
+        "enlace": "https://sudamericaplay2.com/canal_8112/tudnmx.html",
+        "icono": "⚽"
+      },
+      {
+        "titulo": "Las Estrellas",
+        "enlace": "https://latamvidzfy.org/lasestrelas.php",
+        "icono": "⚽"
+      },
+      {
+        "titulo": "Dsports Plus",
+        "enlace": "https://latamvidzfy.org/dsportsplus.php",
+        "icono": "⚽"
+      },
+      {
+        "titulo": "Caracol TV 2",
+        "enlace": "https://esvidzy99.co/caracoltv.php",
+        "icono": "⚽"
+      },
+      {
+        "titulo": "RCN TV 2",
+        "enlace": "https://latamvidzfy.org/rcn.php",
+        "icono": "⚽"
+      },
+      {
+        "titulo": "SporTV",
+        "enlace": "https://latamvidzfy.org/sportvbr.php",
+        "icono": "⚽"
+      },
+      {
+        "titulo": "Fox One",
+        "enlace": "https://latamvidzfy.org/fox1.php",
+        "icono": "⚽"
+      },
+      {
+        "titulo": "CazeTV",
+        "enlace": "https://latamvidzfy.org/caze2.php",
+        "icono": "⚽"
+      },
+      {
+        "titulo": "CazeTV 2",
+        "enlace": "https://quetzalitotv.vercel.app/cazetv.html",
+        "icono": "⚽"
+      },
+      {
+        "titulo": "La 1 (España)",
+        "enlace": "https://quetzalitotv.vercel.app/la1es.html",
+        "icono": "⚽"
+      },
+      {
+        "titulo": "Fox One 2",
+        "enlace": "https://latamplay1.click/channel/fox.html",
+        "icono": "⚽"
+      }
+    ]
+  },
+  {
     "categoria": "México",
     "pais": "México",
     "canales": [
