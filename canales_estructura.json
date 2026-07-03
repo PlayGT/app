@@ -8,11 +8,7 @@
         "enlace": "https://latamvidzfy.org/dsportsar.php",
         "icono": "⚽"
       },
-      {
-        "titulo": "Unicanal",
-        "enlace": "https://latamvidzfy.org/unicanal.php",
-        "icono": "⚽"
-      },
+
       {
         "titulo": "Canal 5 MX",
         "enlace": "https://latamvidzfy.org/canal5mx.php",
@@ -141,6 +137,11 @@
       {
               "titulo": "Sportv",
         "enlace": "https://latamvidzfy.org/sportv2.php",
+        "icono": "⚽"
+      },
+            {
+        "titulo": "Unicanal",
+        "enlace": "https://latamvidzfy.org/unicanal.php",
         "icono": "⚽"
       },
             {
