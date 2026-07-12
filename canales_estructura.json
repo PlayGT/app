@@ -12,17 +12,18 @@
         "titulo": "Las Estrellas",
         "enlace": "https://latamvidzfy.org/lasestrelas.php",
         "icono": "⚽"
-      },  
-{
-  "titulo": "Dsports SD",
-  "enlace": "http://tv.m3uts.xyz/stream/secure/f33CSRSk/312.m3u8",
-  "userAgent": "Magma Player/10",
-  "headers": {
-    "X-App": "ps",
-    "X-Version": "10/1.0.9",
-    "X-Hash": "vNYsKZ3rEv90GCYWtruBsQZtvNJ3vuW3gZsvNWRe42-UXY8vrUh5CEUD_QkvWfSMLwp-ZM1NKw6-ViVkttIgpRPXgDB6xjD8fIvfaj7Mb6C9-1WrLTaL0GXPpzBsAo_-N8RYQR0ZDzdJBO3dORz9REHAWuL-UZxGKU-HonN-6sWDcbl2t7g5JLwp6rfHusb3IVUqHl_prxFYoEA7XUhsoGNu3MN81KVlN8wYmXXWPLW26_ebrP1rUdPxqurm7-xxGos6wpN4iHqwksFJRG9YhAtcR2ntVZ2QaOQCV5grgNQI6NfWTyhxYNwcnIobS5y2oYn6sx_9xSaM418_yoJMlAGN-FSpnxhQb8canAzQSDQx0GFeV-7SFPdsU_ASbpSBnvHTIUtSZXMHbG0OROplUNBHxdE2_VtsbwK72K39nrASXp45qJQIU8un44PKluFyjdxRc_FqwxhaVwfe8b8V_3F-b87aAagHQAUS_b0hSziL98mX2d8CE57op4tJ35fVw9RRqOpNFjcn4p3OmClA9VJDKGD-dMQWyl589KhNg_H2E5Y_ok6KJUbp6yBiXMEjSGEncj5cJ4ffNxzjC_j0c1YE3dOISbr5R6SiHlOUnNM",
-    "X-Did": "0fc0e59075491624"
-  },
+      },
+      {
+        "titulo": "Dsports SD",
+        "enlace": "http://tv.m3uts.xyz/stream/secure/f33CSRSk/312.m3u8",
+        "userAgent": "Magma Player/10",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Hash": "vNYsKZ3rEv90GCYWtruBsQZtvNJ3vuW3gZsvNWRe42-UXY8vrUh5CEUD_QkvWfSMLwp-ZM1NKw6-ViVkttIgpRPXgDB6xjD8fIvfaj7Mb6C9-1WrLTaL0GXPpzBsAo_-N8RYQR0ZDzdJBO3dORz9REHAWuL-UZxGKU-HonN-6sWDcbl2t7g5JLwp6rfHusb3IVUqHl_prxFYoEA7XUhsoGNu3MN81KVlN8wYmXXWPLW26_ebrP1rUdPxqurm7-xxGos6wpN4iHqwksFJRG9YhAtcR2ntVZ2QaOQCV5grgNQI6NfWTyhxYNwcnIobS5y2oYn6sx_9xSaM418_yoJMlAGN-FSpnxhQb8canAzQSDQx0GFeV-7SFPdsU_ASbpSBnvHTIUtSZXMHbG0OROplUNBHxdE2_VtsbwK72K39nrASXp45qJQIU8un44PKluFyjdxRc_FqwxhaVwfe8b8V_3F-b87aAagHQAUS_b0hSziL98mX2d8CE57op4tJ35fVw9RRqOpNFjcn4p3OmClA9VJDKGD-dMQWyl589KhNg_H2E5Y_ok6KJUbp6yBiXMEjSGEncj5cJ4ffNxzjC_j0c1YE3dOISbr5R6SiHlOUnNM",
+          "X-Did": "0fc0e59075491624"
+        }
+      },
       {
         "titulo": "Dsports HD",
         "enlace": "http://tv.m3uts.xyz/stream/secure/m9lEwhs5/324.m3u8",
@@ -32,14 +33,16 @@
           "X-Did": "0fc0e59075491624",
           "X-Version": "10/1.0.9",
           "X-App": "ps"
-        },
+        }
+      },
       {
         "titulo": "Canal 5",
         "enlace": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
         "clearkey": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
       }
     ]
-  },
+  }
+]
   {
     "categoria": "México",
     "pais": "México",
