@@ -127,6 +127,17 @@
   }
       },
       {
+  "titulo": "TUDN USA",
+  "enlace": "http://tv.m3uts.xyz/stream/secure/Ej-44UFC/956.m3u8",
+  "userAgent": "Magma Player/10",
+  "headers": {
+    "X-App": "ps",
+    "X-Version": "10/1.0.9",
+    "X-Hash": "EeQeWrTOOZEmY_hMW8sxyBj5AdD2QGr4msgFR8a9a_g_2BGlzFg_pLuaqb5Uk7BtQvFd-a9EOctmg0FCp4TP36zskNkxwPOy6kCjh7Zelr8gQ03Lis_mUbJPjlPJm77P7FYbJh4aNkthR9gFjDcJkOVZQOc9FvA1u2nARUnFnqLuzIKVphFcJRbUT1Zn15K5iyzEtu-BmNsL27VwBM_NrNC0AsGhK6t0PA4qeXuknW5XPqpsdBTXeShAhzhnmFzEML18t2ED2dOJJD2we3RKXkgMX_Fqo98WOTVslGdwMqjL5_V6ZuyyscFgnDUsjCImNV_4d-255yA6Zhluycl2EhlfKRjKOuEe3ANA42r-p79Q_nqKuBcTfuYrVJtomyT0YWeRr3AOjsfR-KXEKHJpNmjm02jDzSvt2Q47hNTU0luYGgkvl5At4U-8LfZapxRVZScNf5d2yX7-0mZRD-IQWVHBYUJrXpHErHQlXCIlWz5lOB7TmJf1Wk1ZFojetjQceLAOcv0PyLgDmrmQqGzJ-V8TyDKztrX4csd9M2_aVvNoHCM7QWPU8U3fpENXSP8wA6zThTI915RpgC66zqWFfAZGNxsu5ZP6Bsi1ZCVFK7s",
+    "X-Did": "0fc0e59075491624"
+  }
+      },
+      {
         "titulo": "Canal 5",
         "enlace": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
         "clearkey": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
