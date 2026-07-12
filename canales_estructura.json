@@ -148,6 +148,18 @@
     "X-Did": "0fc0e59075491624"
   }
       },
+
+      {
+  "titulo": "Telefe Argentina",
+  "enlace": "http://tv.m3uts.xyz/stream/secure/l4Z4J-dy/874.m3u8",
+  "userAgent": "Magma Player/10",
+  "headers": {
+    "X-App": "ps",
+    "X-Version": "10/1.0.9",
+    "X-Hash": "oS3MGgkoW1XYXVFKQCYpps-vDhL1QnFZhJvCbRCdC0MkqA9V3OOPWop0HbliejaiAftNPCfW-RA2OSOnFFPkVwC-8aEW_KAuqcHDuwH772BJpG6BB-t4PQzM9vVYRbANL1uNiZuL63Sjbooa2oyu7IzKheM1BomdZlWCwivxy574JSZmViBX5IQQG_l-cES4GEIY580taBcP2uiSmKaTViu8TQMVxg1y4AF-4-yrlhV7A9JeuBxp8Ts1DRSB-OtSUevuVM7xdAUMo12nK8F_PTdrcLLmeT6udKJEBwOVZi3NC-bgjS8xl40u4hySerrgvsnvpZylMBgbR9RVTeQe5ITdp8z5XIMsCwDl3powSO6CZiV68aHEzHZHp1ClfZEVzrscryY-JwrGnC5PxJdTKr7uLSASOnsed6X-SYUfIWFNTj8skQY9G0bjcMoY1WTAD3CUVU9MdOr-BSFEtXS5yN-s9P74eNY9G3AyULyim_jXZJ85qles1TD2tbasqP1cArShg2mtLuXLInqyDGSTDwvPsqPHBucQXWJHRka30SC3j5gDQypcZSNMpTOoZXDZbdYISIbFaMXVjU2BDD9ifrxgrB5h-_kEHrFZyv0LKHE",
+    "X-Did": "0fc0e59075491624"
+  }
+      },
       {
         "titulo": "Canal 5",
         "enlace": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
