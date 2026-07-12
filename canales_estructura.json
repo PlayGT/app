@@ -113,6 +113,11 @@
           "X-Version": "10/1.0.9",
           "X-App": "ps"
         }
+      },
+      {
+        "titulo": "Canal MPD Amazon",
+        "enlace": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+        "clearkey": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
       }
     ]
   },
