@@ -14,6 +14,17 @@
         "enlace": "https://latamvidzfy.org/lasestrelas.php",
         "icono": "⚽"
       },
+      {
+  "titulo": "Telemundo HD",
+  "enlace": "http://tv.m3uts.xyz/stream/secure/SkLeWARX/889.m3u8",
+  "userAgent": "Magma Player/10",
+  "headers": {
+    "X-App": "ps",
+    "X-Version": "10/1.0.9",
+    "X-Hash": "Yl51cRbw1UhErRM0T29ZuR_0bnTSRYjpHxx1ZFO9WGsNm1PFUyLfv08-LAUVUiBlBVxDkLGr4S0vVfxpR-MiD4nKRXg24d7ntlhrStaDFASO8rvcif-3QIeFyaPs7ucqz63EusUQVby0beWjgUktTA_LHIkY8iw4LoXFZRih-adan__bdLvCpPqyXcDDekTMszyOujyVaCsolxjDGBK9Ex_GQu-SahtykhBLiAt9iszh5ky2WTwXZxo3LIpsj1_dSJDG_SvKP5uT1CBLNrYLji5dSyKLXVwFAH-9rV37wkSWTnTcSP3aSRC9VgPIMXbcFr5amwsCjo1dfpKfaLET9rWaJl__8Tf69pFx2Si7WL5FV9jsNqw54DcoQyLhHFMFSgYrtn3L9nEg8EpMqG1s8s5bPiTXaFqEfH4ZKub7n86mlmrZFB4igNnbsyFKMND35s3p0g7Jx4v_NKkUgxwew7gC85F1tBZq6D4fbXTvKilo-0hJ2THtQjCnK8bhH05ERavbf_ndV9ThU8rdANwWNqCaRtIyJNqyVbSGsGr6-5XcdS003VL1fCwmquOCt_Qm2N15_fv-iW_BwphCvD2uEiUC58TI7d7BDwzlFB0nNXo",
+    "X-Did": "0fc0e59075491624"
+  }
+      },
 
  {
   "titulo": "Telemundo",
