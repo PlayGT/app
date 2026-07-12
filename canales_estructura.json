@@ -138,6 +138,17 @@
   }
       },
       {
+  "titulo": "Win Sports",
+  "enlace": "http://tv.m3uts.xyz/stream/secure/lbTda0XU/1039.m3u8",
+  "userAgent": "Magma Player/10",
+  "headers": {
+    "X-App": "ps",
+    "X-Version": "10/1.0.9",
+    "X-Hash": "X5PCPFGYhssNfolDkC0uItQg78S55FOczwszV4Bn8EeKvqkGro2LRZPT6qBaHfBTAzoaIsFlch8bT9iCG5E0A3Zu5U34qgmW81MRooYNRMsVfgdIoELlzWm2UTz3SO5Xe4SQn8DteGjoyT-7ejZ74jVdxcWDRUjUCKwU6QaAiDYjNRJe5Jcfm2PeJ6V0w4MRiZlCTx0C857CZF7WSCS3vkB5aSvOayxa7WKHc6dTMiWlm24JLV8fp0IB_wpw_EuUp5Mi55xGltULCD9srd8AqX6t4rFZJF3oweDF04Y8y0dYKs6imaKCBBMnzjpNgXnMHGSbIuz6aQuA0lzRv67eCgISLR_pwTWpHS1dnkmIkYk5sOgOJGh-zvfK1yEbvYlY1W-3RdAtLz-T-ooBHda-PpHCW6Jezvy7GAuRh03fksY7Agdf5jsw4aCkRjtiywv5UzG14bExG8Bv4oZ972KUSP5yScyFNOH_djWjSs3XauJO3mTVfOC6X0p38ikMwpK4wafEmnNYwp-qRPKRoNLt-ol0UBE56IHJBLrEj5LYejwBU6CMrRo9nFdqaTPA_CqQa_KXCmFEwy3timaq2SplgrQWDHIkskNK20YFG1gCUgw",
+    "X-Did": "0fc0e59075491624"
+  }
+      },
+      {
         "titulo": "Canal 5",
         "enlace": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
         "clearkey": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
