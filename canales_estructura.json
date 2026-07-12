@@ -8,6 +8,11 @@
         "enlace": "https://esvidzypro.sbs/dsportsar.php",
         "icono": "⚽"
       },
+            {
+        "titulo": "Canal 5",
+        "enlace": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+        "clearkey": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
+            },
       {
   "titulo": "Mundial OP2",
   "enlace": "http://tv.m3uts.xyz/stream/secure/l_BLgRf5/1179.m3u8",
@@ -215,11 +220,6 @@
     "X-Did": "0fc0e59075491624"
   }
       },
-      {
-        "titulo": "Canal 5",
-        "enlace": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-        "clearkey": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
-      }
     ]
   },
   {
