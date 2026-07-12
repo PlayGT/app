@@ -9,6 +9,17 @@
         "icono": "⚽"
       },
       {
+  "titulo": "Mundial OP2",
+  "enlace": "http://tv.m3uts.xyz/stream/secure/l_BLgRf5/1179.m3u8",
+  "userAgent": "Magma Player/10",
+  "headers": {
+    "X-App": "ps",
+    "X-Version": "10/1.0.9",
+    "X-Hash": "BaAkbp2gMkm6RUDNszvcxepmW-wC8E9yZv1hSNRc7NRZirMyZUFDCSF_6bTaRbl0THEG2Z1kNJOkP2ro9-i_DYN2-8czZp_pciAsOMtDrlFQ5gaEq3LwrrvdXrgzz26uJBou2hgLMMJAJ8k68dVbwzF-I2GzNMjoFFnJS1ZsKjFW8l9AVGL0udSfqXQbm4AYdJAy4zKNhEXpWL1jIHoQ_lM7bVu-PHUkJ_ubphLXlPn_cz54ai-ORRe5K0ij8PFiCael6prFvJmAMPyXytWclzO49-BIMNcL5o7TUHEytq0sFnEBCi5PwiO-wZGaP73bHhbTqeKXFXsV9dcXLqjkNPnqNoI1aY9Y7bW4xbBi8afEyyW_fdOnLZ_HM4w1voWzm4FcirjXthE_AKDPccx4FtsIK0CM_sO5dXXNZZKBFA7wYYOmONyEo9evzRUTLNJTGNUBAWJFBz01fQuV1uKJR-1waxXX3eXIJNJNIxTETsM3hy4ujm9UvRr5oTtud3WWQYP5fLkj3Rny02_f2LYf67PY1tBoJv46En8vNEMiDv8FxH5hWR6o27VVb886zfv4GXnG4lwxHcjCujqjHMcQqRszf8dqsAX4a79EHc0vHAE",
+    "X-Did": "0fc0e59075491624"
+  }
+      },
+      {
   "titulo": "Mundial OP1",
   "enlace": "http://tv.m3uts.xyz/stream/secure/6r_GolEc/1178.m3u8",
   "userAgent": "Magma Player/10",
