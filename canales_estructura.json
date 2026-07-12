@@ -116,6 +116,17 @@
   }
       },
       {
+  "titulo": "TUDN",
+  "enlace": "http://tv.m3uts.xyz/stream/secure/G4RcOzpl/952.m3u8",
+  "userAgent": "Magma Player/10",
+  "headers": {
+    "X-App": "ps",
+    "X-Version": "10/1.0.9",
+    "X-Hash": "F9HCwX9rnmpnMlwhQuJh-gyNNO1CoKmtWFiNc0g2Yq7YR8PgnG747uh67hmvqhYR8Rl3EzyGdSFvnJF-Jp-t7KmB1xgYH7QbbWIRfqr8CVcbBdMWEhbOwpsUDlq594gZbIVgqpbSNFIrNTaxNRZUbuNws4sfonwt9LPZaXnroTW59NzL9bZ96Awxl4ImLI88X308hHEr8gz2769G3NJhHenm6QF7CfSvxouuiWl5Ah7pjtoQloEiOvEY-IppTNPqd1XGr3PkSMimc7-ClXb2yEMCPVOgoTSj78ITocYHZXj86lY2ANeZysytQSIjn43kk1pkS7F_ejCl14BUUQjJoobg6DJH7k-29KWahFO1dd92gnm1jgFHU-CRD1jnk_Iqfbl11GfgemF8GX_KDr98teXSQpeLy_wSHj6Y7HfE9oXLe6n3rQrMqtqEj_g1WlXlIIcFoS7teajz-q0W4gKl71KjOrlBb5wlJ4AM1U8AKvALog7LKE23MzQnXvUdWHbyxXe8-OZh61qpiIlFrBQnvn6OEsoQ2Irqjk-yn8e7vfVxAB5EIIQzx-p2WDG6LhU7GmyOpIvhdSfxOfrhK8_CiUUMrG9cSY1xOUJTRWsSRdY",
+    "X-Did": "0fc0e59075491624"
+  }
+      },
+      {
         "titulo": "Canal 5",
         "enlace": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
         "clearkey": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
