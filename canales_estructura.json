@@ -8,14 +8,14 @@
         "enlace": "https://esvidzypro.sbs/dsportsar.php",
         "icono": "⚽"
       },
-                  {
+      {
         "titulo": "Caracol",
-        "enlace": "http://nocable.cc:8080/live/wRQ9Ca/970072/320377.m3u8",
+        "enlace": "https://esvidzy99.co/caracoltv.php",
         "icono": "⚽"
       },
       {
         "titulo": "Canal 5 MX",
-        "enlace": "http://199.188.103.176:8000/play/a0fc/index.m3u8",
+        "enlace": "https://latamvidzfy.org/canal5mx.php",
         "icono": "⚽"
       },
       {
@@ -79,22 +79,20 @@
         "icono": "⚽"
       },
       {
-              "titulo": "Sportv",
+        "titulo": "Sportv",
         "enlace": "https://latamvidzfy.org/sportv2.php",
         "icono": "⚽"
       },
-            {
+      {
         "titulo": "Unicanal",
         "enlace": "https://latamvidzfy.org/unicanal.php",
         "icono": "⚽"
       },
-
       {
         "titulo": "Fox One 2",
         "enlace": "https://latamplay1.click/channel/fox.html",
         "icono": "⚽"
       },
-
       {
         "titulo": "América TV",
         "enlace": "https://rojadirectatve.com/repro/americatv1.html",
@@ -104,6 +102,17 @@
         "titulo": "TyC Sports",
         "enlace": "https://rojadirectatve.com/repro/tycsportsarg.html",
         "icono": "⚽"
+      },
+      {
+        "titulo": "Canal 324",
+        "enlace": "http://tv.m3uts.xyz/stream/secure/m9lEwhs5/324.m3u8",
+        "userAgent": "Magma Player/10",
+        "headers": {
+          "X-Hash": "YLCzR3YJVy9SAIn8spypSHgyuR7swtF2QHfWTE60JJrqZM5NIiKqiZZxk7Mvp0hzoHDzF-73MIya-cmH4KzTveOqIp0UusrmTMjlvH2-l83rFXBnqOMioDrY9AStLqMx9kaT2ojzNL8tm_0Pwn9e9Lvvw-6AfhEtEYcCgdJRCoA1YCNboRqtJa16kmTQH3BoX0pb9TXojSYV84AxAvma7LpuX8JRYUjLM_6Tmwh3s3X2imoFAVSmsM6KD0rL4yTUiOlu5DQbHHuCE2rhAFPtFf0nC9flZtfXyHpPjwtco27MAFwgrqMRZLUe3a71K3GhUDcVFYNM0zVydEQAepncjqFhIUCe1fCcnlGNrXnNfx_ntLpOmEPv0kiX034R9ZqAgcHZETUzUqPHeg1pxnKOcxpq4h2sPoKd1d9CGsOYq0R1yLOJn3dXnfrHSXtP0fEiAta2ki5-qDduj6sW0UHmlbEohbKbz3AXyaf-vvjSfL0z3yC6oML9UykK0x_pJEIsSY95DeIf42wU_ZEO_j2664GH39nLpjIYDKiKM_u0U_IQID0_4bguNdU2rGrNiNzA_IAmaVGmFHVvSSLR3bPkPq3aK269-hU_7g8DoyVE4vo",
+          "X-Did": "0fc0e59075491624",
+          "X-Version": "10/1.0.9",
+          "X-App": "ps"
+        }
       }
     ]
   },
