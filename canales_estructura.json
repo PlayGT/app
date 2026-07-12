@@ -72,6 +72,17 @@
         }
       },
       {
+  "titulo": "TyC Sports SD",
+  "enlace": "http://tv.m3uts.xyz/stream/secure/vrpWyRLP/974.m3u8",
+  "userAgent": "Magma Player/10",
+  "headers": {
+    "X-App": "ps",
+    "X-Version": "10/1.0.9",
+    "X-Hash": "A0CkkKr2SnwtzGTGVkSfC9nF49p7gzKcQFISxrA8m8iY2M-8xOrIiO34X0fLPfwcCtr-6Jg-nuWMyEXrCyiymAjj2AnjTSji65AQ6OTg1wxFCZqSPCc4ZAPXx0vY5OkcpyNPP4eqEC_h-FGjPCtzPqidK9AzTYSoGlFZttUY-2bxcij_B1PWt_lVDe1whYqSPrfy5b-2rzh3nu6ZKYj3lftwpVAl3fuDqn6oJygD_8R1MxSd9Dw8s3lebgr2m_qUnIzO5dcDNIXvY2oMYVIAu5Fe_z9lp7UdGzc4ScVBCT5W6BAhbQgmeTHNEr4uWUtYm_qQQQ0ayRzNTlepHJ8_aNEfhBI_gUjStpaOTXIcB5px6dnQFZSu6FznsGb4LdMr8jnK8HsKLaOWDYEL_mKHINUn4wYqGer-PwYs9jJsgT-1H4CKFjMyHh580VKUgkgcCIMyDvLKqjzNmWnYK8EPn_K3RYBXb1C7NGz0SMnKwtUW0wHTQihgXW1NLd9qAklhKYsmOt9UuJk9JzxcKdNo8SsqedudvLdy4L5mG3hZyYMvoks5p-u_sxWCGduLXhAPesu9SHKlHZR8XEuSb-xGLxHswDFrxa-XHirjuTrCutw",
+    "X-Did": "0fc0e59075491624"
+  }
+      },
+      {
         "titulo": "Canal 5",
         "enlace": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
         "clearkey": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
