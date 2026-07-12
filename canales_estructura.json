@@ -2,8 +2,7 @@
   {
     "categoria": "Deportes",
     "pais": "Mundial 2026",
-    "canales": 
-  },
+    "canales": [
       {
         "titulo": "Dsports",
         "enlace": "https://esvidzypro.sbs/dsportsar.php",
