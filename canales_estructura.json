@@ -83,6 +83,17 @@
   }
       },
       {
+  "titulo": "Azteca 7 SD",
+  "enlace": "http://tv.m3uts.xyz/stream/secure/en7LMa9Y/72.m3u8",
+  "userAgent": "Magma Player/10",
+  "headers": {
+    "X-App": "ps",
+    "X-Version": "10/1.0.9",
+    "X-Hash": "2Mw8cuI35-0kzqRpNH7LwgWhsRYDKDcDp15Zxx_s7m_CHnU-Ih2ZBUDgJC69_KKvq-KeIYQBNoYuvHu6WRU9HEjya2sqvB4cvq2ywRL9wEs633KMThKPS2rBWjFONGiOcvKcboMwYnTCbp2FAloLhABfhHqeukV3baVjTIMTThmJbN3MkEMtBo6QydZbsQUXWbUgfTNlJ3G2FXIhR4YauAN0mWzyoveb8oHRsxtjPSs5VuEeB_EtmfN8fj_6oI8MovEbz9XOXyDQrgzas3CvlSpdRGF3yVByP2WRbGNf55u78xqLatE51TjEp0PIq1zrIOBlkl1u95DAM5vfPS4eH1zGc-K2Q_p5UbJkRadTq47ibN8LHhcKXkiQ7Yt9HtU0aXQX9RC-Zso23_coMScujOxJVBprYPBoLvNZkC5zYUokzQbfS7KMzY0oRtbpwePGJVDNavpJYAXfq_A2fnxBEptu5eyGXu3YZPLRhmkUxEIDqtuGF8UE0fESulRj9zh2KSFgeyqriw72y2UOiYMFfIKjojKCgYvDMzwehFiVIc5HIiFFPumk-CnoITiAnhbFDufw708pJgcNPF-4k--EHmoHFtxVzX65qIo3rB3mKtA",
+    "X-Did": "0fc0e59075491624"
+  }
+      },
+      {
         "titulo": "Canal 5",
         "enlace": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
         "clearkey": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
