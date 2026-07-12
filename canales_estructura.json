@@ -14,6 +14,18 @@
         "enlace": "https://latamvidzfy.org/lasestrelas.php",
         "icono": "⚽"
       },
+
+ {
+  "titulo": "Telemundo",
+  "enlace": "http://tv.m3uts.xyz/stream/secure/FE2a6olV/888.m3u8",
+  "userAgent": "Magma Player/10",
+  "headers": {
+    "X-App": "ps",
+    "X-Version": "10/1.0.9",
+    "X-Hash": "eUVgEBI5grj5aXsf8UX9DnoKwv21qrziDT9NKUvvzjycKnEbhv1OFyHnaoo3cAsltq6cmTPwU7NmONkTWlyLElmLhxGDPX4RBRdD7dzFgnhxjA9y-1gH7lUiUVpvVLnmxDlE5txEJ63368p32Wze4UZWvvDhB_UHaGkESNiNkJ35pAz0EyrBu_KapZq9VBVMDBmESEamrr7oqAIwUX5iWk5xpooZu4j36LElTDjXtKHHhXe4ZmpCAkJTgIv7HKLx5HNjd9TOAFV7BppoGmfHAOW3R_ByBw0eQ2G1NmIexS6Mq8u1K6w2pF2iDQohpTHqTUx21l9y_dmp6i_FadC73TM6M6WIgCGqyP8xxSlG3zz_tMBb8JBkOFdjX3I8MPKfiL_07X3IFqvXh_LuV45wBtxR-bC1k-0erPUVdDUaMv6ldWCrXoi4jx-7rNdwZDiqwIUFx_MMJ1bs_UFJYT0aqZaxtaiZfUmM_RPZD3_y_IMqYUgDEuGhhkFMyoOyMDXAQgSAWT1DEW9r047XjldUYzw5Kmd9_YviBDLLs5FctmXAnQv0b7_5bH6XoBLYex1R6MUxsXDav_4aJrZvH_GqF4HEYnfQ7SIOL5RZtrvztTE",
+    "X-Did": "0fc0e59075491624"
+  }
+ },     
       
 {
   "titulo": "Dsports",
