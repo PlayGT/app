@@ -8,6 +8,17 @@
         "enlace": "https://esvidzypro.sbs/dsportsar.php",
         "icono": "⚽"
       },
+      {
+  "titulo": "Mundial OP1",
+  "enlace": "http://tv.m3uts.xyz/stream/secure/6r_GolEc/1178.m3u8",
+  "userAgent": "Magma Player/10",
+  "headers": {
+    "X-App": "ps",
+    "X-Version": "10/1.0.9",
+    "X-Hash": "P5W4D7f0P1Qvl1-pVjBapth2tyfh-R0lUEuK1_zMr7ugmqGXhsXrw37Hk9qq0F8LiGJGoaPFdaw0KSGpSqqOogxgaVSbTSM5txprkwaV8Z-3c9bOndOTTiNJgKxXrP35VEYlhgMK9978GQCjyT-_tRcfSZbBOb60RONP3mWiBtLddsA1zUUqkNW5yzRg9RYtxQ4z5w8QQnFShlONtfWkVTVyMCprYH8AN1ftKBYb26nLKkTjEcFv6D7UTBVd_sxdchycAtyO3iRHv8gDmdXrcKhAVCCZK17KiBdPcY_EJ1SuYIy6QMAOZ0rGYhA2Nx-12Ettg2BSUpLeqxO3k0DwG0_F43XPUFu4Bvpo30wmCswhkP-uyLdJ3_vTO_meV86y3xQIcwBnIpowLq0hoXKxS2G4fbPL93qUKwU8pWeh3Ku39v4gIMn1HVJaQXpgY940rG33f4uveZWjjI_sfb9AXY3v74XCiBpUfkELv5_wZCVWO8u_6uesCYypiMgO6hwBu7czCzki4hJMFdWjiOJQWUYJHGzigbxDa-PzxTildQuxK4n-HVJHA_ADJyTG_NcSNbgf21MhWc9W9ibD4LqxRH-hIPnLRDAOBmofhhHjZMM",
+    "X-Did": "0fc0e59075491624"
+  }
+      },
 
       {
         "titulo": "Las Estrellas",
