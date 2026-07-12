@@ -194,6 +194,17 @@
   }
       },
       {
+  "titulo": "La 1 España",
+  "enlace": "http://tv.m3uts.xyz/stream/secure/6jz_K-EW/588.m3u8",
+  "userAgent": "Magma Player/10",
+  "headers": {
+    "X-App": "ps",
+    "X-Version": "10/1.0.9",
+    "X-Hash": "ZbqSJjUMg-MFshmxtFxrMLzTwFriSuvVIc_3sUH-cRmpIvpuz_PRmSA0_3KT-0_N3S9iipSW2ydSQ2LZugQueso6UADFNzcLtH6ZgRhhkq5a9D33Tdnh1gGydXbSqn_OwBmXceH3IMe5Mmkw3PapXoKdBzC5hHoFsTnrS59tAobMxc3AeOxcA30C9kg8H473_FuX--iky58b76jtDkCfi9Xl7DmyF12yQwwu_nda1k-bGNueKIwVwdFOxTWx7_swUe7xlB5qQkZR-LFRZJmpTe0WRVUUdzTtnJusQJnRqqA6aHgHpv94VOB5Gm03op4fqKfUkeq9KY0tV_V4Vctl_uecgLocDwnqqWAnE3rINJa3TG62aoWeyeaTbCl-CVECy-JyYcEnBC2w79Wl8NhUeuaS2Olo9MPCpu97XI6z3CWMUZQOvTkYd6pTs5GyBqWqhTtefC7pIBMv2bHATn6-Vt1iaU62qhAXInJxE-33iWrEK6l2g1-7tyP7CSWnuud4BgNxOjd7sIDgqCupCcvrL-p5sUH3jfdWXqyJhnLl60Bj3PpkOgRGBoW7jeIiQZsxwPdTRSi9lx_nSk5nuZCJtJZxE6SVL4nNt8NMBSdR-SY",
+    "X-Did": "0fc0e59075491624"
+  }
+      },
+      {
         "titulo": "Canal 5",
         "enlace": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
         "clearkey": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
