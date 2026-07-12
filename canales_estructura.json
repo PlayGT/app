@@ -15,6 +15,17 @@
         "icono": "⚽"
       },
       {
+  "titulo": "TyC Sports HD",
+  "enlace": "http://tv.m3uts.xyz/stream/secure/3DXhTgnA/1143.m3u8",
+  "userAgent": "Magma Player/10",
+  "headers": {
+    "X-App": "ps",
+    "X-Version": "10/1.0.9",
+    "X-Hash": "0Ah0pCx8s9y4za94F2wocms_tfkWsno1gWbuPxqLoRDyVqF33J9bX-0_7aVmMgzl6i6CttowfbqQ1f83pkXxcWq8ua07K5LHSeUmjSt8tioNfwo357zKMQ90ItvKJcTVqRNzGPPHCWTWO18cbVkCtNNNcSt1bLg_Qwwxra21zMvDiCv-lXhKrGGZoUuMEMqrOU4NEG8AWFws0AA3ypIPhzp7_b738CHeBzPcoPW6BbNKnALfU4F1a1cneBpV-Vf5W8oYNRGV8IEtVQkYrqi9YYzO7OQvdxGGqf2nKWdf7_llHYJWgpLkWEOB5IgaFT0-OAVJF2crjgwyLbvXXzPr4YBpmjhJ_hv6EUWpxWmP-CnJ1AuFw_N84Ggzy2x_8h1mDG8EUFZ3A-_MbYD_gpKlyXEl-O7u_mQuFUkI9_yYwyU49ZJ_VLg400RaPsCCsqhQdsaxxUG2Z2n1_1A2LnRD6eYu654JG1V3qsqtTajfruZu86IbhfP8ZYvj8ZETV9rt6CQoq3WV5I4Ue_1PadRJ0mbNVpPnsWb0ZHGH_vQiOF32sOop8wnxYMN7LUlLuk-FfPVfDbS6yOt-269HxKmWyD_t3btyz1Dj6eOYkZqqhpg",
+    "X-Did": "0fc0e59075491624"
+  }
+      },
+      {
   "titulo": "Telemundo HD",
   "enlace": "http://tv.m3uts.xyz/stream/secure/SkLeWARX/889.m3u8",
   "userAgent": "Magma Player/10",
