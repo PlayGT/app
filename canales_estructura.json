@@ -1429,7 +1429,7 @@
   },
   {
     "categoria": "Guatemala",
-    "pais": "Guatemala",
+    "pais": "",
     "canales": [
       {
         "titulo": "Amigos TV Chiquimula",
@@ -1580,7 +1580,7 @@
   },
   {
     "categoria": "Argentina",
-    "pais": "Argentina",
+    "pais": "",
     "canales": [
       {
         "titulo": "24/7 Canal de Noticias",
@@ -1931,7 +1931,7 @@
   },
   {
     "categoria": "Bolivia",
-    "pais": "Bolivia",
+    "pais": "",
     "canales": [
       {
         "titulo": "F10 HD",
@@ -1992,7 +1992,7 @@
   },
   {
     "categoria": "Chile",
-    "pais": "Chile",
+    "pais": "",
     "canales": [
       {
         "titulo": "13 Festival",
@@ -2283,7 +2283,7 @@
   },
   {
     "categoria": "Colombia",
-    "pais": "Colombia",
+    "pais": "",
     "canales": [
       {
         "titulo": "Avivamiento TV",
@@ -2584,7 +2584,7 @@
   },
   {
     "categoria": "Costa Rica",
-    "pais": "Costa Rica",
+    "pais": "",
     "canales": [
       {
         "titulo": "360 RFTV",
@@ -2805,7 +2805,7 @@
   },
   {
     "categoria": "Cuba",
-    "pais": "Cuba",
+    "pais": "",
     "canales": [
       {
         "titulo": "Canal Educativo",
@@ -2841,7 +2841,7 @@
   },
   {
     "categoria": "República Dominicana",
-    "pais": "República Dominicana",
+    "pais": "",
     "canales": [
       {
         "titulo": "AION TV",
@@ -3667,7 +3667,7 @@
   },
   {
     "categoria": "Ecuador",
-    "pais": "Ecuador",
+    "pais": "",
     "canales": [
       {
         "titulo": "America Estereo Guayaquil",
@@ -3933,7 +3933,7 @@
   },
   {
     "categoria": "España",
-    "pais": "España",
+    "pais": "",
     "canales": [
       {
         "titulo": "12tv",
@@ -4584,7 +4584,7 @@
   },
   {
     "categoria": "Honduras",
-    "pais": "Honduras",
+    "pais": "",
     "canales": [
       {
         "titulo": "Alsacias Television",
@@ -4730,7 +4730,7 @@
   },
   {
     "categoria": "Nicaragua",
-    "pais": "Nicaragua",
+    "pais": "",
     "canales": [
       {
         "titulo": "Escuchame Radio TV",
@@ -4751,7 +4751,7 @@
   },
   {
     "categoria": "Panamá",
-    "pais": "Panamá",
+    "pais": "",
     "canales": [
       {
         "titulo": "Fabulosa Estereo 100.5 FM",
@@ -4787,7 +4787,7 @@
   },
   {
     "categoria": "Perú",
-    "pais": "Perú",
+    "pais": "",
     "canales": [
       {
         "titulo": "Antares Television",
@@ -5013,7 +5013,7 @@
   },
   {
     "categoria": "Puerto Rico",
-    "pais": "Puerto Rico",
+    "pais": "",
     "canales": [
       {
         "titulo": "America TeVe",
@@ -5154,7 +5154,7 @@
   },
   {
     "categoria": "Paraguay",
-    "pais": "Paraguay",
+    "pais": "",
     "canales": [
       {
         "titulo": "Almaya TV",
@@ -5330,7 +5330,7 @@
   },
   {
     "categoria": "El Salvador",
-    "pais": "El Salvador",
+    "pais": "",
     "canales": [
       {
         "titulo": "Agape TV",
@@ -5421,7 +5421,7 @@
   },
   {
     "categoria": "Venezuela",
-    "pais": "Venezuela",
+    "pais": "",
     "canales": [
       {
         "titulo": "AS3 Sport TV",
@@ -5582,7 +5582,7 @@
   },
   {
     "categoria": "Uruguay",
-    "pais": "Uruguay",
+    "pais": "",
     "canales": [
       {
         "titulo": "VIVO TV",
@@ -5593,7 +5593,7 @@
   },
   {
     "categoria": "Brasil",
-    "pais": "Brasil",
+    "pais": "",
     "canales": [
       {
         "titulo": "AWTV",
@@ -6089,7 +6089,7 @@
   },
   {
     "categoria": "Música",
-    "pais": "Internacional",
+    "pais": "",
     "canales": [
       {
         "titulo": "Canal VM Latino",
