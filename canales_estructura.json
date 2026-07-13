@@ -224,7 +224,7 @@
   },
     {
     "categoria": "Lista Temporal",
-    "pais": "Lista",
+    "pais": "",
     "canales": [
   {
     "titulo": "11 - Repretel",
@@ -818,10 +818,7 @@
     "titulo": "Nick SIM HD",
     "enlace": "http://186.33.25.234:8125/play/a0c9/index.m3u8"
   },
-  {
-    "titulo": "Nickelodeon",
-    "enlace": "http://186.33.25.234:8125/play/a05h/index.m3u8"
-  },
+  
   {
     "titulo": "PXTV",
     "enlace": "http://186.33.25.234:8125/play/a09u/index.m3u8"
@@ -838,10 +835,7 @@
     "titulo": "Pasiones HD",
     "enlace": "http://186.33.25.234:8125/play/a06f/index.m3u8"
   },
-  {
-    "titulo": "Playboy",
-    "enlace": "http://186.33.25.234:8125/play/a07k/index.m3u8"
-  },
+  
   {
     "titulo": "RCN - GUA",
     "enlace": "http://186.33.25.234:8125/play/a0cq/index.m3u8"
@@ -1042,10 +1036,7 @@
     "titulo": "Univision HD",
     "enlace": "http://186.33.25.234:8125/play/a06g/index.m3u8"
   },
-  {
-    "titulo": "VENUS",
-    "enlace": "http://186.33.25.234:8125/play/a0a3/index.m3u8"
-  },
+
   {
     "titulo": "VTV Canal 35 ESA",
     "enlace": "http://186.33.25.234:8125/play/a034/index.m3u8"
