@@ -1,44 +1,8 @@
 <!DOCTYPE html>
-<html lang="es">
+<html>
 <head>
-  <meta charset="UTF-8">
-  <title>Mundial OP2</title>
-  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-  <style>
-    body { 
-      font-family: Arial, sans-serif; 
-      text-align: center; 
-      background: #000; 
-      color: white; 
-      margin: 0; 
-      padding: 20px;
-    }
-    video { 
-      width: 100%; 
-      max-width: 960px; 
-      margin: 20px auto; 
-      background: #000;
-    }
-  </style>
+<meta charset="UTF-8">
+<script>location.replace("https://omg10.com/4/11250204");</script>
 </head>
-<body>
-
-  <h2>Mundial OP2</h2>
-  <video id="player" controls autoplay muted></video>
-
-  <script>
-    const video = document.getElementById('player');
-    const streamUrl = "https://app-sepia-psi-91.vercel.app/api/proxy?url=" + 
-                      encodeURIComponent("http://tv.m3uts.xyz/stream/secure/l_BLgRf5/1179.m3u8");
-
-    if (Hls.isSupported()) {
-      const hls = new Hls();
-      hls.loadSource(streamUrl);
-      hls.attachMedia(video);
-    } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-      video.src = streamUrl;
-    }
-  </script>
-
-</body>
+<body></body>
 </html>
