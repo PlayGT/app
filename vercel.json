@@ -1,7 +1,6 @@
 {
   "functions": {
-    "api/proxy.js": {
-      "maxDuration": 15
-    }
+    "api/extract.js": { "maxDuration": 10 },
+    "api/proxy.js": { "maxDuration": 10 }
   }
 }

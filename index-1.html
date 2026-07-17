@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<title>Quetzalito Player</title>
+<link href="https://vjs.zencdn.net/8.10.0/video-js.css" rel="stylesheet" />
+<style>
+  * { box-sizing: border-box; }
+  body { background:#0b0f14; color:#fff; font-family:sans-serif; margin:0; }
+  #wrapper { max-width:1100px; margin:0 auto; padding:20px; }
+  .video-js { width:100%; aspect-ratio:16/9; }
+  #status { text-align:center; padding:40px; font-size:16px; color:#9aa; }
+  #errorBox { text-align:center; padding:40px; color:#f66; display:none; }
+</style>
+</head>
+<body>
+  <div id="wrapper">
+    <div id="status">Cargando video...</div>
+    <div id="errorBox"></div>
+    <video id="player" class="video-js vjs-default-skin" controls preload="auto" style="display:none"></video>
+  </div>
+
+  <script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
+  <script>
+    async function init() {
+      const params = new URLSearchParams(window.location.search);
+      // Acepta ?url=... o directamente ?=... (primer parámetro sin nombre)
+      let embed = params.get('url');
+      if (!embed) {
+        // soporte para /ver?https://... (sin nombre de parámetro)
+        const raw = window.location.search.slice(1);
+        if (raw.startsWith('http')) embed = decodeURIComponent(raw);
+      }
+
+      const statusEl = document.getElementById('status');
+      const errorEl = document.getElementById('errorBox');
+      const videoEl = document.getElementById('player');
+
+      if (!embed) {
+        statusEl.style.display = 'none';
+        errorEl.style.display = 'block';
+        errorEl.textContent = 'Falta el parámetro ?url= con el link del embed.';
+        return;
+      }
+
+      try {
+        const res = await fetch(`/api/extract?url=${encodeURIComponent(embed)}&host=streamwish`);
+        const data = await res.json();
+
+        if (!res.ok || !data.sources || !data.sources.length) {
+          throw new Error(data.error || 'No se encontró el video');
+        }
+
+        const source = data.sources[0];
+        // Si falla por CORS/Referer, cambia por el proxy:
+        // const fileUrl = `/api/proxy?url=${encodeURIComponent(source.file)}&ref=${encodeURIComponent(embed)}`;
+        const fileUrl = source.file;
+
+        statusEl.style.display = 'none';
+        videoEl.style.display = 'block';
+
+        const player = videojs('player', {
+          controls: true,
+          autoplay: true,
+          fluid: true,
+          playbackRates: [0.5, 1, 1.25, 1.5, 2],
+        });
+
+        player.src({
+          src: fileUrl,
+          type: source.type === 'hls' ? 'application/x-mpegURL' : 'video/mp4',
+        });
+      } catch (err) {
+        statusEl.style.display = 'none';
+        errorEl.style.display = 'block';
+        errorEl.textContent = 'Error: ' + err.message;
+      }
+    }
+
+    init();
+  </script>
+</body>
+</html>
