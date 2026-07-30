@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Player</title>
 
-<link href="https://vjs.zencdn.net/8.16.1/video-js.css" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.13/dist/hls.min.js"></script>
 
 <style>
   html, body {
@@ -16,58 +16,115 @@
     height: 100%;
     overflow: hidden;
   }
-  .video-js {
-    width: 100vw;
-    height: 100vh;
-  }
-  .vjs-tech {
+  video {
+    width: 100%;
+    height: 100%;
     object-fit: contain;
+    background: #000;
   }
-  .video-js .vjs-big-play-button {
-    top: 50%;
-    left: 50%;
-    margin-top: -0.9em;
-    margin-left: -1.5em;
+  #debug {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0,0,0,0.75);
+    color: #0f0;
+    font-family: monospace;
+    font-size: 11px;
+    padding: 6px;
+    max-height: 30%;
+    overflow-y: auto;
+    z-index: 999;
+    display: none;
   }
 </style>
 </head>
 <body>
 
-<video
-  id="player"
-  class="video-js vjs-default-skin vjs-big-play-centered"
-  controls
-  autoplay
-  playsinline
-  preload="auto">
-</video>
-
-<script src="https://vjs.zencdn.net/8.16.1/video.min.js"></script>
+<video id="player" playsinline controls autoplay></video>
+<div id="debug"></div>
 
 <script>
   const STREAM_URL = "https://ne16-ed2e5e137f7c.herokuapp.com/stream/3210235?hash=056b83&d=true";
+  const video = document.getElementById('player');
+  const debugEl = document.getElementById('debug');
 
-  const player = videojs('player', {
-    autoplay: true,
-    controls: true,
-    fluid: false,
-    responsive: true,
-    preload: 'auto',
-    sources: [{
-      src: STREAM_URL,
-      type: 'video/mp4'
-    }]
-  });
+  // Cambia a true si quieres ver el log de diagnóstico en pantalla
+  const SHOW_DEBUG = true;
+  if (SHOW_DEBUG) debugEl.style.display = 'block';
 
-  player.ready(function () {
-    player.play().catch(() => {
-      // El navegador puede bloquear autoplay con audio; esperamos interacción
+  function log(msg) {
+    console.log(msg);
+    if (SHOW_DEBUG) {
+      debugEl.innerHTML += msg + '<br>';
+      debugEl.scrollTop = debugEl.scrollHeight;
+    }
+  }
+
+  function playAsMp4() {
+    log('Reproduciendo como video progresivo (mp4/directo)...');
+    video.src = STREAM_URL;
+    video.play().catch(e => log('Error al hacer play(): ' + e.message));
+  }
+
+  function playAsHls() {
+    log('Reproduciendo como HLS...');
+    if (Hls.isSupported()) {
+      const hls = new Hls({ debug: false });
+      hls.loadSource(STREAM_URL);
+      hls.attachMedia(video);
+      hls.on(Hls.Events.ERROR, function (event, data) {
+        log('HLS error: ' + data.type + ' / ' + data.details + (data.fatal ? ' (FATAL)' : ''));
+        if (data.fatal) {
+          log('HLS falló, probando como mp4 directo...');
+          playAsMp4();
+        }
+      });
+      hls.on(Hls.Events.MANIFEST_PARSED, () => {
+        log('Manifiesto HLS cargado correctamente.');
+        video.play().catch(e => log('Error al hacer play(): ' + e.message));
+      });
+    } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+      video.src = STREAM_URL;
+    } else {
+      playAsMp4();
+    }
+  }
+
+  // 1. Intentamos detectar el Content-Type real con un HEAD request
+  fetch(STREAM_URL, { method: 'HEAD' })
+    .then(res => {
+      const ct = res.headers.get('content-type') || '';
+      log('Content-Type detectado: ' + (ct || '(no expuesto por CORS)'));
+      if (ct.includes('mpegurl') || ct.includes('m3u8')) {
+        playAsHls();
+      } else if (ct.includes('mp4') || ct.includes('video/') || ct === '') {
+        playAsMp4();
+      } else {
+        playAsMp4();
+      }
+    })
+    .catch(err => {
+      log('HEAD request bloqueado (probablemente CORS): ' + err.message);
+      log('Se asume mp4 directo por defecto.');
+      playAsMp4();
     });
+
+  video.addEventListener('error', () => {
+    const err = video.error;
+    const codes = {
+      1: 'MEDIA_ERR_ABORTED',
+      2: 'MEDIA_ERR_NETWORK',
+      3: 'MEDIA_ERR_DECODE',
+      4: 'MEDIA_ERR_SRC_NOT_SUPPORTED'
+    };
+    if (err) {
+      log('VIDEO ERROR: ' + (codes[err.code] || err.code) + ' - ' + (err.message || 'sin mensaje'));
+    }
   });
 
-  player.on('error', function () {
-    console.error('Video.js error:', player.error());
-  });
+  video.addEventListener('canplay', () => log('Video listo para reproducir (canplay).'));
+  video.addEventListener('playing', () => log('▶ Reproduciendo.'));
 </script>
 
 </body>
